@@ -6,7 +6,7 @@ plugins {
 
 android {
     namespace = "com.dokarun.autoreportapp"
-    compileSdk = 35
+    compileSdk = 36
 
     defaultConfig {
         applicationId = "com.dokarun.autoreportapp"
