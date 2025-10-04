@@ -1,0 +1,5418 @@
+{
+  "info": {
+    "description": "Road Condition Image Captioning Dataset",
+    "version": "1.0",
+    "year": 2025,
+    "date_created": "2025-10-02"
+  },
+  "licenses": [],
+  "images": [
+    {
+      "id": 1,
+      "file_name": "cracked_0001.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:27",
+      "category": "cracked"
+    },
+    {
+      "id": 2,
+      "file_name": "cracked_0002.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:27",
+      "category": "cracked"
+    },
+    {
+      "id": 3,
+      "file_name": "cracked_0003.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:27",
+      "category": "cracked"
+    },
+    {
+      "id": 4,
+      "file_name": "cracked_0004.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:27",
+      "category": "cracked"
+    },
+    {
+      "id": 5,
+      "file_name": "cracked_0005.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:27",
+      "category": "cracked"
+    },
+    {
+      "id": 6,
+      "file_name": "cracked_0006.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:27",
+      "category": "cracked"
+    },
+    {
+      "id": 7,
+      "file_name": "cracked_0007.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:27",
+      "category": "cracked"
+    },
+    {
+      "id": 8,
+      "file_name": "cracked_0008.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:27",
+      "category": "cracked"
+    },
+    {
+      "id": 9,
+      "file_name": "cracked_0009.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:27",
+      "category": "cracked"
+    },
+    {
+      "id": 10,
+      "file_name": "cracked_0010.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:27",
+      "category": "cracked"
+    },
+    {
+      "id": 11,
+      "file_name": "cracked_0011.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:27",
+      "category": "cracked"
+    },
+    {
+      "id": 12,
+      "file_name": "cracked_0012.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:27",
+      "category": "cracked"
+    },
+    {
+      "id": 13,
+      "file_name": "cracked_0013.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:27",
+      "category": "cracked"
+    },
+    {
+      "id": 14,
+      "file_name": "cracked_0014.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:27",
+      "category": "cracked"
+    },
+    {
+      "id": 15,
+      "file_name": "cracked_0015.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:27",
+      "category": "cracked"
+    },
+    {
+      "id": 16,
+      "file_name": "cracked_0016.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:27",
+      "category": "cracked"
+    },
+    {
+      "id": 17,
+      "file_name": "cracked_0017.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:27",
+      "category": "cracked"
+    },
+    {
+      "id": 18,
+      "file_name": "cracked_0018.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:27",
+      "category": "cracked"
+    },
+    {
+      "id": 19,
+      "file_name": "cracked_0019.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:27",
+      "category": "cracked"
+    },
+    {
+      "id": 20,
+      "file_name": "cracked_0020.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:27",
+      "category": "cracked"
+    },
+    {
+      "id": 21,
+      "file_name": "cracked_0021.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:27",
+      "category": "cracked"
+    },
+    {
+      "id": 22,
+      "file_name": "cracked_0022.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:27",
+      "category": "cracked"
+    },
+    {
+      "id": 23,
+      "file_name": "cracked_0023.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:27",
+      "category": "cracked"
+    },
+    {
+      "id": 24,
+      "file_name": "cracked_0024.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:27",
+      "category": "cracked"
+    },
+    {
+      "id": 25,
+      "file_name": "cracked_0025.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:27",
+      "category": "cracked"
+    },
+    {
+      "id": 26,
+      "file_name": "cracked_0026.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:27",
+      "category": "cracked"
+    },
+    {
+      "id": 27,
+      "file_name": "cracked_0027.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:27",
+      "category": "cracked"
+    },
+    {
+      "id": 28,
+      "file_name": "cracked_0028.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:27",
+      "category": "cracked"
+    },
+    {
+      "id": 29,
+      "file_name": "cracked_0029.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:27",
+      "category": "cracked"
+    },
+    {
+      "id": 30,
+      "file_name": "cracked_0030.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:27",
+      "category": "cracked"
+    },
+    {
+      "id": 31,
+      "file_name": "cracked_0031.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:27",
+      "category": "cracked"
+    },
+    {
+      "id": 32,
+      "file_name": "cracked_0032.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:27",
+      "category": "cracked"
+    },
+    {
+      "id": 33,
+      "file_name": "cracked_0033.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:27",
+      "category": "cracked"
+    },
+    {
+      "id": 34,
+      "file_name": "cracked_0034.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:27",
+      "category": "cracked"
+    },
+    {
+      "id": 35,
+      "file_name": "cracked_0035.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:28",
+      "category": "cracked"
+    },
+    {
+      "id": 36,
+      "file_name": "cracked_0036.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:28",
+      "category": "cracked"
+    },
+    {
+      "id": 37,
+      "file_name": "cracked_0037.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:28",
+      "category": "cracked"
+    },
+    {
+      "id": 38,
+      "file_name": "cracked_0038.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:28",
+      "category": "cracked"
+    },
+    {
+      "id": 39,
+      "file_name": "cracked_0039.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:28",
+      "category": "cracked"
+    },
+    {
+      "id": 40,
+      "file_name": "cracked_0040.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:28",
+      "category": "cracked"
+    },
+    {
+      "id": 41,
+      "file_name": "cracked_0041.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:28",
+      "category": "cracked"
+    },
+    {
+      "id": 42,
+      "file_name": "cracked_0042.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:28",
+      "category": "cracked"
+    },
+    {
+      "id": 43,
+      "file_name": "cracked_0043.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:28",
+      "category": "cracked"
+    },
+    {
+      "id": 44,
+      "file_name": "cracked_0044.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:28",
+      "category": "cracked"
+    },
+    {
+      "id": 45,
+      "file_name": "cracked_0045.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:28",
+      "category": "cracked"
+    },
+    {
+      "id": 46,
+      "file_name": "cracked_0046.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:28",
+      "category": "cracked"
+    },
+    {
+      "id": 47,
+      "file_name": "cracked_0047.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:28",
+      "category": "cracked"
+    },
+    {
+      "id": 48,
+      "file_name": "cracked_0048.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:28",
+      "category": "cracked"
+    },
+    {
+      "id": 49,
+      "file_name": "cracked_0049.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:28",
+      "category": "cracked"
+    },
+    {
+      "id": 50,
+      "file_name": "cracked_0050.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:28",
+      "category": "cracked"
+    },
+    {
+      "id": 51,
+      "file_name": "cracked_0051.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:28",
+      "category": "cracked"
+    },
+    {
+      "id": 52,
+      "file_name": "cracked_0052.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:28",
+      "category": "cracked"
+    },
+    {
+      "id": 53,
+      "file_name": "cracked_0053.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:28",
+      "category": "cracked"
+    },
+    {
+      "id": 54,
+      "file_name": "cracked_0054.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:28",
+      "category": "cracked"
+    },
+    {
+      "id": 55,
+      "file_name": "cracked_0055.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:28",
+      "category": "cracked"
+    },
+    {
+      "id": 56,
+      "file_name": "cracked_0056.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:28",
+      "category": "cracked"
+    },
+    {
+      "id": 57,
+      "file_name": "cracked_0057.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:28",
+      "category": "cracked"
+    },
+    {
+      "id": 58,
+      "file_name": "cracked_0058.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:28",
+      "category": "cracked"
+    },
+    {
+      "id": 59,
+      "file_name": "cracked_0059.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:28",
+      "category": "cracked"
+    },
+    {
+      "id": 60,
+      "file_name": "cracked_0060.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:28",
+      "category": "cracked"
+    },
+    {
+      "id": 61,
+      "file_name": "cracked_0061.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:28",
+      "category": "cracked"
+    },
+    {
+      "id": 62,
+      "file_name": "cracked_0062.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:28",
+      "category": "cracked"
+    },
+    {
+      "id": 63,
+      "file_name": "cracked_0063.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:28",
+      "category": "cracked"
+    },
+    {
+      "id": 64,
+      "file_name": "cracked_0064.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:28",
+      "category": "cracked"
+    },
+    {
+      "id": 65,
+      "file_name": "cracked_0065.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:28",
+      "category": "cracked"
+    },
+    {
+      "id": 66,
+      "file_name": "cracked_0066.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:28",
+      "category": "cracked"
+    },
+    {
+      "id": 67,
+      "file_name": "cracked_0067.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:28",
+      "category": "cracked"
+    },
+    {
+      "id": 68,
+      "file_name": "cracked_0068.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:28",
+      "category": "cracked"
+    },
+    {
+      "id": 69,
+      "file_name": "cracked_0069.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:28",
+      "category": "cracked"
+    },
+    {
+      "id": 70,
+      "file_name": "cracked_0070.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:28",
+      "category": "cracked"
+    },
+    {
+      "id": 71,
+      "file_name": "cracked_0071.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:28",
+      "category": "cracked"
+    },
+    {
+      "id": 72,
+      "file_name": "cracked_0072.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:28",
+      "category": "cracked"
+    },
+    {
+      "id": 73,
+      "file_name": "cracked_0073.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:28",
+      "category": "cracked"
+    },
+    {
+      "id": 74,
+      "file_name": "cracked_0074.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:28",
+      "category": "cracked"
+    },
+    {
+      "id": 75,
+      "file_name": "cracked_0075.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:28",
+      "category": "cracked"
+    },
+    {
+      "id": 76,
+      "file_name": "cracked_0076.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:28",
+      "category": "cracked"
+    },
+    {
+      "id": 77,
+      "file_name": "cracked_0077.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:28",
+      "category": "cracked"
+    },
+    {
+      "id": 78,
+      "file_name": "cracked_0078.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:28",
+      "category": "cracked"
+    },
+    {
+      "id": 79,
+      "file_name": "cracked_0079.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:28",
+      "category": "cracked"
+    },
+    {
+      "id": 80,
+      "file_name": "cracked_0080.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:28",
+      "category": "cracked"
+    },
+    {
+      "id": 81,
+      "file_name": "cracked_0081.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:28",
+      "category": "cracked"
+    },
+    {
+      "id": 82,
+      "file_name": "cracked_0082.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:28",
+      "category": "cracked"
+    },
+    {
+      "id": 83,
+      "file_name": "cracked_0083.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:28",
+      "category": "cracked"
+    },
+    {
+      "id": 84,
+      "file_name": "cracked_0084.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:28",
+      "category": "cracked"
+    },
+    {
+      "id": 85,
+      "file_name": "cracked_0085.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:28",
+      "category": "cracked"
+    },
+    {
+      "id": 86,
+      "file_name": "cracked_0086.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:28",
+      "category": "cracked"
+    },
+    {
+      "id": 87,
+      "file_name": "cracked_0087.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:28",
+      "category": "cracked"
+    },
+    {
+      "id": 88,
+      "file_name": "cracked_0088.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:28",
+      "category": "cracked"
+    },
+    {
+      "id": 89,
+      "file_name": "cracked_0089.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:28",
+      "category": "cracked"
+    },
+    {
+      "id": 90,
+      "file_name": "cracked_0090.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:29",
+      "category": "cracked"
+    },
+    {
+      "id": 91,
+      "file_name": "cracked_0091.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:29",
+      "category": "cracked"
+    },
+    {
+      "id": 92,
+      "file_name": "cracked_0092.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:29",
+      "category": "cracked"
+    },
+    {
+      "id": 93,
+      "file_name": "cracked_0093.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:29",
+      "category": "cracked"
+    },
+    {
+      "id": 94,
+      "file_name": "cracked_0094.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:29",
+      "category": "cracked"
+    },
+    {
+      "id": 95,
+      "file_name": "cracked_0095.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:29",
+      "category": "cracked"
+    },
+    {
+      "id": 96,
+      "file_name": "cracked_0096.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:29",
+      "category": "cracked"
+    },
+    {
+      "id": 97,
+      "file_name": "cracked_0097.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:29",
+      "category": "cracked"
+    },
+    {
+      "id": 98,
+      "file_name": "good_0001.jpg",
+      "width": 600,
+      "height": 358,
+      "date_captured": "2025-10-02 15:10:29",
+      "category": "good"
+    },
+    {
+      "id": 99,
+      "file_name": "good_0002.png",
+      "width": 960,
+      "height": 719,
+      "date_captured": "2025-10-02 15:10:29",
+      "category": "good"
+    },
+    {
+      "id": 100,
+      "file_name": "good_0003.jpg",
+      "width": 600,
+      "height": 337,
+      "date_captured": "2025-10-02 15:10:29",
+      "category": "good"
+    },
+    {
+      "id": 101,
+      "file_name": "good_0004.png",
+      "width": 600,
+      "height": 338,
+      "date_captured": "2025-10-02 15:10:29",
+      "category": "good"
+    },
+    {
+      "id": 102,
+      "file_name": "good_0005.png",
+      "width": 960,
+      "height": 640,
+      "date_captured": "2025-10-02 15:10:29",
+      "category": "good"
+    },
+    {
+      "id": 103,
+      "file_name": "good_0006.jpg",
+      "width": 960,
+      "height": 603,
+      "date_captured": "2025-10-02 15:10:29",
+      "category": "good"
+    },
+    {
+      "id": 104,
+      "file_name": "good_0007.jpg",
+      "width": 1280,
+      "height": 853,
+      "date_captured": "2025-10-02 15:10:29",
+      "category": "good"
+    },
+    {
+      "id": 105,
+      "file_name": "good_0008.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:29",
+      "category": "good"
+    },
+    {
+      "id": 106,
+      "file_name": "good_0009.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:29",
+      "category": "good"
+    },
+    {
+      "id": 107,
+      "file_name": "good_0010.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:29",
+      "category": "good"
+    },
+    {
+      "id": 108,
+      "file_name": "good_0011.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:29",
+      "category": "good"
+    },
+    {
+      "id": 109,
+      "file_name": "good_0012.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:29",
+      "category": "good"
+    },
+    {
+      "id": 110,
+      "file_name": "good_0013.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:29",
+      "category": "good"
+    },
+    {
+      "id": 111,
+      "file_name": "good_0014.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:29",
+      "category": "good"
+    },
+    {
+      "id": 112,
+      "file_name": "good_0015.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:29",
+      "category": "good"
+    },
+    {
+      "id": 113,
+      "file_name": "good_0016.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:29",
+      "category": "good"
+    },
+    {
+      "id": 114,
+      "file_name": "good_0017.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:29",
+      "category": "good"
+    },
+    {
+      "id": 115,
+      "file_name": "good_0018.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:29",
+      "category": "good"
+    },
+    {
+      "id": 116,
+      "file_name": "good_0019.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:29",
+      "category": "good"
+    },
+    {
+      "id": 117,
+      "file_name": "good_0020.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:29",
+      "category": "good"
+    },
+    {
+      "id": 118,
+      "file_name": "good_0021.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:29",
+      "category": "good"
+    },
+    {
+      "id": 119,
+      "file_name": "good_0022.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:29",
+      "category": "good"
+    },
+    {
+      "id": 120,
+      "file_name": "good_0023.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:29",
+      "category": "good"
+    },
+    {
+      "id": 121,
+      "file_name": "good_0024.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:29",
+      "category": "good"
+    },
+    {
+      "id": 122,
+      "file_name": "good_0025.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:29",
+      "category": "good"
+    },
+    {
+      "id": 123,
+      "file_name": "good_0026.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:29",
+      "category": "good"
+    },
+    {
+      "id": 124,
+      "file_name": "good_0027.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:29",
+      "category": "good"
+    },
+    {
+      "id": 125,
+      "file_name": "good_0028.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:29",
+      "category": "good"
+    },
+    {
+      "id": 126,
+      "file_name": "good_0029.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:29",
+      "category": "good"
+    },
+    {
+      "id": 127,
+      "file_name": "good_0030.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:29",
+      "category": "good"
+    },
+    {
+      "id": 128,
+      "file_name": "good_0031.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:29",
+      "category": "good"
+    },
+    {
+      "id": 129,
+      "file_name": "good_0032.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:29",
+      "category": "good"
+    },
+    {
+      "id": 130,
+      "file_name": "good_0033.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:29",
+      "category": "good"
+    },
+    {
+      "id": 131,
+      "file_name": "good_0034.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:29",
+      "category": "good"
+    },
+    {
+      "id": 132,
+      "file_name": "good_0035.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:29",
+      "category": "good"
+    },
+    {
+      "id": 133,
+      "file_name": "good_0036.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:29",
+      "category": "good"
+    },
+    {
+      "id": 134,
+      "file_name": "good_0037.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:29",
+      "category": "good"
+    },
+    {
+      "id": 135,
+      "file_name": "good_0038.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:29",
+      "category": "good"
+    },
+    {
+      "id": 136,
+      "file_name": "good_0039.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:29",
+      "category": "good"
+    },
+    {
+      "id": 137,
+      "file_name": "good_0040.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:29",
+      "category": "good"
+    },
+    {
+      "id": 138,
+      "file_name": "good_0041.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:29",
+      "category": "good"
+    },
+    {
+      "id": 139,
+      "file_name": "good_0042.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:29",
+      "category": "good"
+    },
+    {
+      "id": 140,
+      "file_name": "good_0043.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:29",
+      "category": "good"
+    },
+    {
+      "id": 141,
+      "file_name": "good_0044.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:29",
+      "category": "good"
+    },
+    {
+      "id": 142,
+      "file_name": "good_0045.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:29",
+      "category": "good"
+    },
+    {
+      "id": 143,
+      "file_name": "good_0046.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:29",
+      "category": "good"
+    },
+    {
+      "id": 144,
+      "file_name": "good_0047.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:29",
+      "category": "good"
+    },
+    {
+      "id": 145,
+      "file_name": "good_0048.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:29",
+      "category": "good"
+    },
+    {
+      "id": 146,
+      "file_name": "good_0049.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:30",
+      "category": "good"
+    },
+    {
+      "id": 147,
+      "file_name": "good_0050.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:30",
+      "category": "good"
+    },
+    {
+      "id": 148,
+      "file_name": "good_0051.jpg",
+      "width": 680,
+      "height": 394,
+      "date_captured": "2025-10-02 15:10:30",
+      "category": "good"
+    },
+    {
+      "id": 149,
+      "file_name": "good_0052.jpg",
+      "width": 900,
+      "height": 600,
+      "date_captured": "2025-10-02 15:10:30",
+      "category": "good"
+    },
+    {
+      "id": 150,
+      "file_name": "good_0053.jpg",
+      "width": 1200,
+      "height": 711,
+      "date_captured": "2025-10-02 15:10:30",
+      "category": "good"
+    },
+    {
+      "id": 151,
+      "file_name": "potholed_0001.jpg",
+      "width": 680,
+      "height": 390,
+      "date_captured": "2025-10-02 15:10:30",
+      "category": "potholed"
+    },
+    {
+      "id": 152,
+      "file_name": "potholed_0002.jpg",
+      "width": 575,
+      "height": 431,
+      "date_captured": "2025-10-02 15:10:30",
+      "category": "potholed"
+    },
+    {
+      "id": 153,
+      "file_name": "potholed_0003.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:30",
+      "category": "potholed"
+    },
+    {
+      "id": 154,
+      "file_name": "potholed_0004.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:30",
+      "category": "potholed"
+    },
+    {
+      "id": 155,
+      "file_name": "potholed_0005.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:30",
+      "category": "potholed"
+    },
+    {
+      "id": 156,
+      "file_name": "potholed_0006.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:30",
+      "category": "potholed"
+    },
+    {
+      "id": 157,
+      "file_name": "potholed_0007.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:30",
+      "category": "potholed"
+    },
+    {
+      "id": 158,
+      "file_name": "potholed_0008.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:30",
+      "category": "potholed"
+    },
+    {
+      "id": 159,
+      "file_name": "potholed_0009.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:30",
+      "category": "potholed"
+    },
+    {
+      "id": 160,
+      "file_name": "potholed_0010.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:30",
+      "category": "potholed"
+    },
+    {
+      "id": 161,
+      "file_name": "potholed_0011.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:30",
+      "category": "potholed"
+    },
+    {
+      "id": 162,
+      "file_name": "potholed_0012.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:30",
+      "category": "potholed"
+    },
+    {
+      "id": 163,
+      "file_name": "potholed_0013.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:30",
+      "category": "potholed"
+    },
+    {
+      "id": 164,
+      "file_name": "potholed_0014.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:30",
+      "category": "potholed"
+    },
+    {
+      "id": 165,
+      "file_name": "potholed_0015.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:30",
+      "category": "potholed"
+    },
+    {
+      "id": 166,
+      "file_name": "potholed_0016.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:30",
+      "category": "potholed"
+    },
+    {
+      "id": 167,
+      "file_name": "potholed_0017.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:30",
+      "category": "potholed"
+    },
+    {
+      "id": 168,
+      "file_name": "potholed_0018.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:30",
+      "category": "potholed"
+    },
+    {
+      "id": 169,
+      "file_name": "potholed_0019.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:30",
+      "category": "potholed"
+    },
+    {
+      "id": 170,
+      "file_name": "potholed_0020.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:30",
+      "category": "potholed"
+    },
+    {
+      "id": 171,
+      "file_name": "potholed_0021.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:30",
+      "category": "potholed"
+    },
+    {
+      "id": 172,
+      "file_name": "potholed_0022.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:30",
+      "category": "potholed"
+    },
+    {
+      "id": 173,
+      "file_name": "potholed_0023.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:30",
+      "category": "potholed"
+    },
+    {
+      "id": 174,
+      "file_name": "potholed_0024.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:30",
+      "category": "potholed"
+    },
+    {
+      "id": 175,
+      "file_name": "potholed_0025.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:30",
+      "category": "potholed"
+    },
+    {
+      "id": 176,
+      "file_name": "potholed_0026.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:30",
+      "category": "potholed"
+    },
+    {
+      "id": 177,
+      "file_name": "potholed_0027.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:30",
+      "category": "potholed"
+    },
+    {
+      "id": 178,
+      "file_name": "potholed_0028.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:30",
+      "category": "potholed"
+    },
+    {
+      "id": 179,
+      "file_name": "potholed_0029.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:30",
+      "category": "potholed"
+    },
+    {
+      "id": 180,
+      "file_name": "potholed_0030.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:30",
+      "category": "potholed"
+    },
+    {
+      "id": 181,
+      "file_name": "potholed_0031.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:30",
+      "category": "potholed"
+    },
+    {
+      "id": 182,
+      "file_name": "potholed_0032.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:30",
+      "category": "potholed"
+    },
+    {
+      "id": 183,
+      "file_name": "potholed_0033.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:30",
+      "category": "potholed"
+    },
+    {
+      "id": 184,
+      "file_name": "potholed_0034.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:30",
+      "category": "potholed"
+    },
+    {
+      "id": 185,
+      "file_name": "potholed_0035.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:30",
+      "category": "potholed"
+    },
+    {
+      "id": 186,
+      "file_name": "potholed_0036.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:30",
+      "category": "potholed"
+    },
+    {
+      "id": 187,
+      "file_name": "potholed_0037.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:30",
+      "category": "potholed"
+    },
+    {
+      "id": 188,
+      "file_name": "potholed_0038.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:30",
+      "category": "potholed"
+    },
+    {
+      "id": 189,
+      "file_name": "potholed_0039.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:30",
+      "category": "potholed"
+    },
+    {
+      "id": 190,
+      "file_name": "potholed_0040.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:30",
+      "category": "potholed"
+    },
+    {
+      "id": 191,
+      "file_name": "potholed_0041.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:30",
+      "category": "potholed"
+    },
+    {
+      "id": 192,
+      "file_name": "potholed_0042.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:30",
+      "category": "potholed"
+    },
+    {
+      "id": 193,
+      "file_name": "potholed_0043.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:30",
+      "category": "potholed"
+    },
+    {
+      "id": 194,
+      "file_name": "potholed_0044.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:30",
+      "category": "potholed"
+    },
+    {
+      "id": 195,
+      "file_name": "potholed_0045.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:30",
+      "category": "potholed"
+    },
+    {
+      "id": 196,
+      "file_name": "potholed_0046.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:30",
+      "category": "potholed"
+    },
+    {
+      "id": 197,
+      "file_name": "potholed_0047.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:30",
+      "category": "potholed"
+    },
+    {
+      "id": 198,
+      "file_name": "potholed_0048.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:30",
+      "category": "potholed"
+    },
+    {
+      "id": 199,
+      "file_name": "potholed_0049.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:30",
+      "category": "potholed"
+    },
+    {
+      "id": 200,
+      "file_name": "potholed_0050.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:30",
+      "category": "potholed"
+    },
+    {
+      "id": 201,
+      "file_name": "potholed_0051.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:30",
+      "category": "potholed"
+    },
+    {
+      "id": 202,
+      "file_name": "potholed_0052.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:30",
+      "category": "potholed"
+    },
+    {
+      "id": 203,
+      "file_name": "potholed_0053.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:30",
+      "category": "potholed"
+    },
+    {
+      "id": 204,
+      "file_name": "potholed_0054.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:30",
+      "category": "potholed"
+    },
+    {
+      "id": 205,
+      "file_name": "potholed_0055.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:30",
+      "category": "potholed"
+    },
+    {
+      "id": 206,
+      "file_name": "potholed_0056.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:30",
+      "category": "potholed"
+    },
+    {
+      "id": 207,
+      "file_name": "potholed_0057.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:30",
+      "category": "potholed"
+    },
+    {
+      "id": 208,
+      "file_name": "potholed_0058.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:30",
+      "category": "potholed"
+    },
+    {
+      "id": 209,
+      "file_name": "potholed_0059.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:30",
+      "category": "potholed"
+    },
+    {
+      "id": 210,
+      "file_name": "potholed_0060.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:30",
+      "category": "potholed"
+    },
+    {
+      "id": 211,
+      "file_name": "potholed_0061.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:30",
+      "category": "potholed"
+    },
+    {
+      "id": 212,
+      "file_name": "potholed_0062.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:30",
+      "category": "potholed"
+    },
+    {
+      "id": 213,
+      "file_name": "potholed_0063.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:30",
+      "category": "potholed"
+    },
+    {
+      "id": 214,
+      "file_name": "potholed_0064.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:30",
+      "category": "potholed"
+    },
+    {
+      "id": 215,
+      "file_name": "potholed_0065.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:30",
+      "category": "potholed"
+    },
+    {
+      "id": 216,
+      "file_name": "potholed_0066.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:30",
+      "category": "potholed"
+    },
+    {
+      "id": 217,
+      "file_name": "potholed_0067.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:30",
+      "category": "potholed"
+    },
+    {
+      "id": 218,
+      "file_name": "potholed_0068.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:30",
+      "category": "potholed"
+    },
+    {
+      "id": 219,
+      "file_name": "potholed_0069.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:30",
+      "category": "potholed"
+    },
+    {
+      "id": 220,
+      "file_name": "potholed_0070.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:30",
+      "category": "potholed"
+    },
+    {
+      "id": 221,
+      "file_name": "potholed_0071.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:30",
+      "category": "potholed"
+    },
+    {
+      "id": 222,
+      "file_name": "potholed_0072.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:30",
+      "category": "potholed"
+    },
+    {
+      "id": 223,
+      "file_name": "potholed_0073.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:30",
+      "category": "potholed"
+    },
+    {
+      "id": 224,
+      "file_name": "potholed_0074.jpg",
+      "width": 1920,
+      "height": 1080,
+      "date_captured": "2025-10-02 15:10:30",
+      "category": "potholed"
+    },
+    {
+      "id": 225,
+      "file_name": "potholed_0075.jpeg",
+      "width": 259,
+      "height": 194,
+      "date_captured": "2025-10-02 15:10:30",
+      "category": "potholed"
+    },
+    {
+      "id": 226,
+      "file_name": "potholed_0076.jpeg",
+      "width": 259,
+      "height": 194,
+      "date_captured": "2025-10-02 15:10:30",
+      "category": "potholed"
+    },
+    {
+      "id": 227,
+      "file_name": "potholed_0077.jpeg",
+      "width": 288,
+      "height": 175,
+      "date_captured": "2025-10-02 15:10:30",
+      "category": "potholed"
+    },
+    {
+      "id": 228,
+      "file_name": "potholed_0078.jpeg",
+      "width": 259,
+      "height": 194,
+      "date_captured": "2025-10-02 15:10:30",
+      "category": "potholed"
+    },
+    {
+      "id": 229,
+      "file_name": "potholed_0079.jpeg",
+      "width": 259,
+      "height": 194,
+      "date_captured": "2025-10-02 15:10:30",
+      "category": "potholed"
+    },
+    {
+      "id": 230,
+      "file_name": "potholed_0080.jpeg",
+      "width": 259,
+      "height": 194,
+      "date_captured": "2025-10-02 15:10:30",
+      "category": "potholed"
+    },
+    {
+      "id": 231,
+      "file_name": "potholed_0081.jpeg",
+      "width": 277,
+      "height": 182,
+      "date_captured": "2025-10-02 15:10:30",
+      "category": "potholed"
+    },
+    {
+      "id": 232,
+      "file_name": "potholed_0082.jpeg",
+      "width": 225,
+      "height": 225,
+      "date_captured": "2025-10-02 15:10:30",
+      "category": "potholed"
+    },
+    {
+      "id": 233,
+      "file_name": "potholed_0083.jpeg",
+      "width": 299,
+      "height": 168,
+      "date_captured": "2025-10-02 15:10:30",
+      "category": "potholed"
+    },
+    {
+      "id": 234,
+      "file_name": "potholed_0084.jpeg",
+      "width": 290,
+      "height": 174,
+      "date_captured": "2025-10-02 15:10:30",
+      "category": "potholed"
+    },
+    {
+      "id": 235,
+      "file_name": "potholed_0085.jpeg",
+      "width": 275,
+      "height": 183,
+      "date_captured": "2025-10-02 15:10:30",
+      "category": "potholed"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "caption": "The road surface is cracked"
+    },
+    {
+      "id": 2,
+      "image_id": 1,
+      "caption": "This pavement shows cracks"
+    },
+    {
+      "id": 3,
+      "image_id": 1,
+      "caption": "Road with visible cracks"
+    },
+    {
+      "id": 4,
+      "image_id": 2,
+      "caption": "The road surface is cracked"
+    },
+    {
+      "id": 5,
+      "image_id": 2,
+      "caption": "This pavement shows cracks"
+    },
+    {
+      "id": 6,
+      "image_id": 2,
+      "caption": "Road with visible cracks"
+    },
+    {
+      "id": 7,
+      "image_id": 3,
+      "caption": "The road surface is cracked"
+    },
+    {
+      "id": 8,
+      "image_id": 3,
+      "caption": "This pavement shows cracks"
+    },
+    {
+      "id": 9,
+      "image_id": 3,
+      "caption": "Road with visible cracks"
+    },
+    {
+      "id": 10,
+      "image_id": 4,
+      "caption": "The road surface is cracked"
+    },
+    {
+      "id": 11,
+      "image_id": 4,
+      "caption": "This pavement shows cracks"
+    },
+    {
+      "id": 12,
+      "image_id": 4,
+      "caption": "Road with visible cracks"
+    },
+    {
+      "id": 13,
+      "image_id": 5,
+      "caption": "The road surface is cracked"
+    },
+    {
+      "id": 14,
+      "image_id": 5,
+      "caption": "This pavement shows cracks"
+    },
+    {
+      "id": 15,
+      "image_id": 5,
+      "caption": "Road with visible cracks"
+    },
+    {
+      "id": 16,
+      "image_id": 6,
+      "caption": "The road surface is cracked"
+    },
+    {
+      "id": 17,
+      "image_id": 6,
+      "caption": "This pavement shows cracks"
+    },
+    {
+      "id": 18,
+      "image_id": 6,
+      "caption": "Road with visible cracks"
+    },
+    {
+      "id": 19,
+      "image_id": 7,
+      "caption": "The road surface is cracked"
+    },
+    {
+      "id": 20,
+      "image_id": 7,
+      "caption": "This pavement shows cracks"
+    },
+    {
+      "id": 21,
+      "image_id": 7,
+      "caption": "Road with visible cracks"
+    },
+    {
+      "id": 22,
+      "image_id": 8,
+      "caption": "The road surface is cracked"
+    },
+    {
+      "id": 23,
+      "image_id": 8,
+      "caption": "This pavement shows cracks"
+    },
+    {
+      "id": 24,
+      "image_id": 8,
+      "caption": "Road with visible cracks"
+    },
+    {
+      "id": 25,
+      "image_id": 9,
+      "caption": "The road surface is cracked"
+    },
+    {
+      "id": 26,
+      "image_id": 9,
+      "caption": "This pavement shows cracks"
+    },
+    {
+      "id": 27,
+      "image_id": 9,
+      "caption": "Road with visible cracks"
+    },
+    {
+      "id": 28,
+      "image_id": 10,
+      "caption": "The road surface is cracked"
+    },
+    {
+      "id": 29,
+      "image_id": 10,
+      "caption": "This pavement shows cracks"
+    },
+    {
+      "id": 30,
+      "image_id": 10,
+      "caption": "Road with visible cracks"
+    },
+    {
+      "id": 31,
+      "image_id": 11,
+      "caption": "The road surface is cracked"
+    },
+    {
+      "id": 32,
+      "image_id": 11,
+      "caption": "This pavement shows cracks"
+    },
+    {
+      "id": 33,
+      "image_id": 11,
+      "caption": "Road with visible cracks"
+    },
+    {
+      "id": 34,
+      "image_id": 12,
+      "caption": "The road surface is cracked"
+    },
+    {
+      "id": 35,
+      "image_id": 12,
+      "caption": "This pavement shows cracks"
+    },
+    {
+      "id": 36,
+      "image_id": 12,
+      "caption": "Road with visible cracks"
+    },
+    {
+      "id": 37,
+      "image_id": 13,
+      "caption": "The road surface is cracked"
+    },
+    {
+      "id": 38,
+      "image_id": 13,
+      "caption": "This pavement shows cracks"
+    },
+    {
+      "id": 39,
+      "image_id": 13,
+      "caption": "Road with visible cracks"
+    },
+    {
+      "id": 40,
+      "image_id": 14,
+      "caption": "The road surface is cracked"
+    },
+    {
+      "id": 41,
+      "image_id": 14,
+      "caption": "This pavement shows cracks"
+    },
+    {
+      "id": 42,
+      "image_id": 14,
+      "caption": "Road with visible cracks"
+    },
+    {
+      "id": 43,
+      "image_id": 15,
+      "caption": "The road surface is cracked"
+    },
+    {
+      "id": 44,
+      "image_id": 15,
+      "caption": "This pavement shows cracks"
+    },
+    {
+      "id": 45,
+      "image_id": 15,
+      "caption": "Road with visible cracks"
+    },
+    {
+      "id": 46,
+      "image_id": 16,
+      "caption": "The road surface is cracked"
+    },
+    {
+      "id": 47,
+      "image_id": 16,
+      "caption": "This pavement shows cracks"
+    },
+    {
+      "id": 48,
+      "image_id": 16,
+      "caption": "Road with visible cracks"
+    },
+    {
+      "id": 49,
+      "image_id": 17,
+      "caption": "The road surface is cracked"
+    },
+    {
+      "id": 50,
+      "image_id": 17,
+      "caption": "This pavement shows cracks"
+    },
+    {
+      "id": 51,
+      "image_id": 17,
+      "caption": "Road with visible cracks"
+    },
+    {
+      "id": 52,
+      "image_id": 18,
+      "caption": "The road surface is cracked"
+    },
+    {
+      "id": 53,
+      "image_id": 18,
+      "caption": "This pavement shows cracks"
+    },
+    {
+      "id": 54,
+      "image_id": 18,
+      "caption": "Road with visible cracks"
+    },
+    {
+      "id": 55,
+      "image_id": 19,
+      "caption": "The road surface is cracked"
+    },
+    {
+      "id": 56,
+      "image_id": 19,
+      "caption": "This pavement shows cracks"
+    },
+    {
+      "id": 57,
+      "image_id": 19,
+      "caption": "Road with visible cracks"
+    },
+    {
+      "id": 58,
+      "image_id": 20,
+      "caption": "The road surface is cracked"
+    },
+    {
+      "id": 59,
+      "image_id": 20,
+      "caption": "This pavement shows cracks"
+    },
+    {
+      "id": 60,
+      "image_id": 20,
+      "caption": "Road with visible cracks"
+    },
+    {
+      "id": 61,
+      "image_id": 21,
+      "caption": "The road surface is cracked"
+    },
+    {
+      "id": 62,
+      "image_id": 21,
+      "caption": "This pavement shows cracks"
+    },
+    {
+      "id": 63,
+      "image_id": 21,
+      "caption": "Road with visible cracks"
+    },
+    {
+      "id": 64,
+      "image_id": 22,
+      "caption": "The road surface is cracked"
+    },
+    {
+      "id": 65,
+      "image_id": 22,
+      "caption": "This pavement shows cracks"
+    },
+    {
+      "id": 66,
+      "image_id": 22,
+      "caption": "Road with visible cracks"
+    },
+    {
+      "id": 67,
+      "image_id": 23,
+      "caption": "The road surface is cracked"
+    },
+    {
+      "id": 68,
+      "image_id": 23,
+      "caption": "This pavement shows cracks"
+    },
+    {
+      "id": 69,
+      "image_id": 23,
+      "caption": "Road with visible cracks"
+    },
+    {
+      "id": 70,
+      "image_id": 24,
+      "caption": "The road surface is cracked"
+    },
+    {
+      "id": 71,
+      "image_id": 24,
+      "caption": "This pavement shows cracks"
+    },
+    {
+      "id": 72,
+      "image_id": 24,
+      "caption": "Road with visible cracks"
+    },
+    {
+      "id": 73,
+      "image_id": 25,
+      "caption": "The road surface is cracked"
+    },
+    {
+      "id": 74,
+      "image_id": 25,
+      "caption": "This pavement shows cracks"
+    },
+    {
+      "id": 75,
+      "image_id": 25,
+      "caption": "Road with visible cracks"
+    },
+    {
+      "id": 76,
+      "image_id": 26,
+      "caption": "The road surface is cracked"
+    },
+    {
+      "id": 77,
+      "image_id": 26,
+      "caption": "This pavement shows cracks"
+    },
+    {
+      "id": 78,
+      "image_id": 26,
+      "caption": "Road with visible cracks"
+    },
+    {
+      "id": 79,
+      "image_id": 27,
+      "caption": "The road surface is cracked"
+    },
+    {
+      "id": 80,
+      "image_id": 27,
+      "caption": "This pavement shows cracks"
+    },
+    {
+      "id": 81,
+      "image_id": 27,
+      "caption": "Road with visible cracks"
+    },
+    {
+      "id": 82,
+      "image_id": 28,
+      "caption": "The road surface is cracked"
+    },
+    {
+      "id": 83,
+      "image_id": 28,
+      "caption": "This pavement shows cracks"
+    },
+    {
+      "id": 84,
+      "image_id": 28,
+      "caption": "Road with visible cracks"
+    },
+    {
+      "id": 85,
+      "image_id": 29,
+      "caption": "The road surface is cracked"
+    },
+    {
+      "id": 86,
+      "image_id": 29,
+      "caption": "This pavement shows cracks"
+    },
+    {
+      "id": 87,
+      "image_id": 29,
+      "caption": "Road with visible cracks"
+    },
+    {
+      "id": 88,
+      "image_id": 30,
+      "caption": "The road surface is cracked"
+    },
+    {
+      "id": 89,
+      "image_id": 30,
+      "caption": "This pavement shows cracks"
+    },
+    {
+      "id": 90,
+      "image_id": 30,
+      "caption": "Road with visible cracks"
+    },
+    {
+      "id": 91,
+      "image_id": 31,
+      "caption": "The road surface is cracked"
+    },
+    {
+      "id": 92,
+      "image_id": 31,
+      "caption": "This pavement shows cracks"
+    },
+    {
+      "id": 93,
+      "image_id": 31,
+      "caption": "Road with visible cracks"
+    },
+    {
+      "id": 94,
+      "image_id": 32,
+      "caption": "The road surface is cracked"
+    },
+    {
+      "id": 95,
+      "image_id": 32,
+      "caption": "This pavement shows cracks"
+    },
+    {
+      "id": 96,
+      "image_id": 32,
+      "caption": "Road with visible cracks"
+    },
+    {
+      "id": 97,
+      "image_id": 33,
+      "caption": "The road surface is cracked"
+    },
+    {
+      "id": 98,
+      "image_id": 33,
+      "caption": "This pavement shows cracks"
+    },
+    {
+      "id": 99,
+      "image_id": 33,
+      "caption": "Road with visible cracks"
+    },
+    {
+      "id": 100,
+      "image_id": 34,
+      "caption": "The road surface is cracked"
+    },
+    {
+      "id": 101,
+      "image_id": 34,
+      "caption": "This pavement shows cracks"
+    },
+    {
+      "id": 102,
+      "image_id": 34,
+      "caption": "Road with visible cracks"
+    },
+    {
+      "id": 103,
+      "image_id": 35,
+      "caption": "The road surface is cracked"
+    },
+    {
+      "id": 104,
+      "image_id": 35,
+      "caption": "This pavement shows cracks"
+    },
+    {
+      "id": 105,
+      "image_id": 35,
+      "caption": "Road with visible cracks"
+    },
+    {
+      "id": 106,
+      "image_id": 36,
+      "caption": "The road surface is cracked"
+    },
+    {
+      "id": 107,
+      "image_id": 36,
+      "caption": "This pavement shows cracks"
+    },
+    {
+      "id": 108,
+      "image_id": 36,
+      "caption": "Road with visible cracks"
+    },
+    {
+      "id": 109,
+      "image_id": 37,
+      "caption": "The road surface is cracked"
+    },
+    {
+      "id": 110,
+      "image_id": 37,
+      "caption": "This pavement shows cracks"
+    },
+    {
+      "id": 111,
+      "image_id": 37,
+      "caption": "Road with visible cracks"
+    },
+    {
+      "id": 112,
+      "image_id": 38,
+      "caption": "The road surface is cracked"
+    },
+    {
+      "id": 113,
+      "image_id": 38,
+      "caption": "This pavement shows cracks"
+    },
+    {
+      "id": 114,
+      "image_id": 38,
+      "caption": "Road with visible cracks"
+    },
+    {
+      "id": 115,
+      "image_id": 39,
+      "caption": "The road surface is cracked"
+    },
+    {
+      "id": 116,
+      "image_id": 39,
+      "caption": "This pavement shows cracks"
+    },
+    {
+      "id": 117,
+      "image_id": 39,
+      "caption": "Road with visible cracks"
+    },
+    {
+      "id": 118,
+      "image_id": 40,
+      "caption": "The road surface is cracked"
+    },
+    {
+      "id": 119,
+      "image_id": 40,
+      "caption": "This pavement shows cracks"
+    },
+    {
+      "id": 120,
+      "image_id": 40,
+      "caption": "Road with visible cracks"
+    },
+    {
+      "id": 121,
+      "image_id": 41,
+      "caption": "The road surface is cracked"
+    },
+    {
+      "id": 122,
+      "image_id": 41,
+      "caption": "This pavement shows cracks"
+    },
+    {
+      "id": 123,
+      "image_id": 41,
+      "caption": "Road with visible cracks"
+    },
+    {
+      "id": 124,
+      "image_id": 42,
+      "caption": "The road surface is cracked"
+    },
+    {
+      "id": 125,
+      "image_id": 42,
+      "caption": "This pavement shows cracks"
+    },
+    {
+      "id": 126,
+      "image_id": 42,
+      "caption": "Road with visible cracks"
+    },
+    {
+      "id": 127,
+      "image_id": 43,
+      "caption": "The road surface is cracked"
+    },
+    {
+      "id": 128,
+      "image_id": 43,
+      "caption": "This pavement shows cracks"
+    },
+    {
+      "id": 129,
+      "image_id": 43,
+      "caption": "Road with visible cracks"
+    },
+    {
+      "id": 130,
+      "image_id": 44,
+      "caption": "The road surface is cracked"
+    },
+    {
+      "id": 131,
+      "image_id": 44,
+      "caption": "This pavement shows cracks"
+    },
+    {
+      "id": 132,
+      "image_id": 44,
+      "caption": "Road with visible cracks"
+    },
+    {
+      "id": 133,
+      "image_id": 45,
+      "caption": "The road surface is cracked"
+    },
+    {
+      "id": 134,
+      "image_id": 45,
+      "caption": "This pavement shows cracks"
+    },
+    {
+      "id": 135,
+      "image_id": 45,
+      "caption": "Road with visible cracks"
+    },
+    {
+      "id": 136,
+      "image_id": 46,
+      "caption": "The road surface is cracked"
+    },
+    {
+      "id": 137,
+      "image_id": 46,
+      "caption": "This pavement shows cracks"
+    },
+    {
+      "id": 138,
+      "image_id": 46,
+      "caption": "Road with visible cracks"
+    },
+    {
+      "id": 139,
+      "image_id": 47,
+      "caption": "The road surface is cracked"
+    },
+    {
+      "id": 140,
+      "image_id": 47,
+      "caption": "This pavement shows cracks"
+    },
+    {
+      "id": 141,
+      "image_id": 47,
+      "caption": "Road with visible cracks"
+    },
+    {
+      "id": 142,
+      "image_id": 48,
+      "caption": "The road surface is cracked"
+    },
+    {
+      "id": 143,
+      "image_id": 48,
+      "caption": "This pavement shows cracks"
+    },
+    {
+      "id": 144,
+      "image_id": 48,
+      "caption": "Road with visible cracks"
+    },
+    {
+      "id": 145,
+      "image_id": 49,
+      "caption": "The road surface is cracked"
+    },
+    {
+      "id": 146,
+      "image_id": 49,
+      "caption": "This pavement shows cracks"
+    },
+    {
+      "id": 147,
+      "image_id": 49,
+      "caption": "Road with visible cracks"
+    },
+    {
+      "id": 148,
+      "image_id": 50,
+      "caption": "The road surface is cracked"
+    },
+    {
+      "id": 149,
+      "image_id": 50,
+      "caption": "This pavement shows cracks"
+    },
+    {
+      "id": 150,
+      "image_id": 50,
+      "caption": "Road with visible cracks"
+    },
+    {
+      "id": 151,
+      "image_id": 51,
+      "caption": "The road surface is cracked"
+    },
+    {
+      "id": 152,
+      "image_id": 51,
+      "caption": "This pavement shows cracks"
+    },
+    {
+      "id": 153,
+      "image_id": 51,
+      "caption": "Road with visible cracks"
+    },
+    {
+      "id": 154,
+      "image_id": 52,
+      "caption": "The road surface is cracked"
+    },
+    {
+      "id": 155,
+      "image_id": 52,
+      "caption": "This pavement shows cracks"
+    },
+    {
+      "id": 156,
+      "image_id": 52,
+      "caption": "Road with visible cracks"
+    },
+    {
+      "id": 157,
+      "image_id": 53,
+      "caption": "The road surface is cracked"
+    },
+    {
+      "id": 158,
+      "image_id": 53,
+      "caption": "This pavement shows cracks"
+    },
+    {
+      "id": 159,
+      "image_id": 53,
+      "caption": "Road with visible cracks"
+    },
+    {
+      "id": 160,
+      "image_id": 54,
+      "caption": "The road surface is cracked"
+    },
+    {
+      "id": 161,
+      "image_id": 54,
+      "caption": "This pavement shows cracks"
+    },
+    {
+      "id": 162,
+      "image_id": 54,
+      "caption": "Road with visible cracks"
+    },
+    {
+      "id": 163,
+      "image_id": 55,
+      "caption": "The road surface is cracked"
+    },
+    {
+      "id": 164,
+      "image_id": 55,
+      "caption": "This pavement shows cracks"
+    },
+    {
+      "id": 165,
+      "image_id": 55,
+      "caption": "Road with visible cracks"
+    },
+    {
+      "id": 166,
+      "image_id": 56,
+      "caption": "The road surface is cracked"
+    },
+    {
+      "id": 167,
+      "image_id": 56,
+      "caption": "This pavement shows cracks"
+    },
+    {
+      "id": 168,
+      "image_id": 56,
+      "caption": "Road with visible cracks"
+    },
+    {
+      "id": 169,
+      "image_id": 57,
+      "caption": "The road surface is cracked"
+    },
+    {
+      "id": 170,
+      "image_id": 57,
+      "caption": "This pavement shows cracks"
+    },
+    {
+      "id": 171,
+      "image_id": 57,
+      "caption": "Road with visible cracks"
+    },
+    {
+      "id": 172,
+      "image_id": 58,
+      "caption": "The road surface is cracked"
+    },
+    {
+      "id": 173,
+      "image_id": 58,
+      "caption": "This pavement shows cracks"
+    },
+    {
+      "id": 174,
+      "image_id": 58,
+      "caption": "Road with visible cracks"
+    },
+    {
+      "id": 175,
+      "image_id": 59,
+      "caption": "The road surface is cracked"
+    },
+    {
+      "id": 176,
+      "image_id": 59,
+      "caption": "This pavement shows cracks"
+    },
+    {
+      "id": 177,
+      "image_id": 59,
+      "caption": "Road with visible cracks"
+    },
+    {
+      "id": 178,
+      "image_id": 60,
+      "caption": "The road surface is cracked"
+    },
+    {
+      "id": 179,
+      "image_id": 60,
+      "caption": "This pavement shows cracks"
+    },
+    {
+      "id": 180,
+      "image_id": 60,
+      "caption": "Road with visible cracks"
+    },
+    {
+      "id": 181,
+      "image_id": 61,
+      "caption": "The road surface is cracked"
+    },
+    {
+      "id": 182,
+      "image_id": 61,
+      "caption": "This pavement shows cracks"
+    },
+    {
+      "id": 183,
+      "image_id": 61,
+      "caption": "Road with visible cracks"
+    },
+    {
+      "id": 184,
+      "image_id": 62,
+      "caption": "The road surface is cracked"
+    },
+    {
+      "id": 185,
+      "image_id": 62,
+      "caption": "This pavement shows cracks"
+    },
+    {
+      "id": 186,
+      "image_id": 62,
+      "caption": "Road with visible cracks"
+    },
+    {
+      "id": 187,
+      "image_id": 63,
+      "caption": "The road surface is cracked"
+    },
+    {
+      "id": 188,
+      "image_id": 63,
+      "caption": "This pavement shows cracks"
+    },
+    {
+      "id": 189,
+      "image_id": 63,
+      "caption": "Road with visible cracks"
+    },
+    {
+      "id": 190,
+      "image_id": 64,
+      "caption": "The road surface is cracked"
+    },
+    {
+      "id": 191,
+      "image_id": 64,
+      "caption": "This pavement shows cracks"
+    },
+    {
+      "id": 192,
+      "image_id": 64,
+      "caption": "Road with visible cracks"
+    },
+    {
+      "id": 193,
+      "image_id": 65,
+      "caption": "The road surface is cracked"
+    },
+    {
+      "id": 194,
+      "image_id": 65,
+      "caption": "This pavement shows cracks"
+    },
+    {
+      "id": 195,
+      "image_id": 65,
+      "caption": "Road with visible cracks"
+    },
+    {
+      "id": 196,
+      "image_id": 66,
+      "caption": "The road surface is cracked"
+    },
+    {
+      "id": 197,
+      "image_id": 66,
+      "caption": "This pavement shows cracks"
+    },
+    {
+      "id": 198,
+      "image_id": 66,
+      "caption": "Road with visible cracks"
+    },
+    {
+      "id": 199,
+      "image_id": 67,
+      "caption": "The road surface is cracked"
+    },
+    {
+      "id": 200,
+      "image_id": 67,
+      "caption": "This pavement shows cracks"
+    },
+    {
+      "id": 201,
+      "image_id": 67,
+      "caption": "Road with visible cracks"
+    },
+    {
+      "id": 202,
+      "image_id": 68,
+      "caption": "The road surface is cracked"
+    },
+    {
+      "id": 203,
+      "image_id": 68,
+      "caption": "This pavement shows cracks"
+    },
+    {
+      "id": 204,
+      "image_id": 68,
+      "caption": "Road with visible cracks"
+    },
+    {
+      "id": 205,
+      "image_id": 69,
+      "caption": "The road surface is cracked"
+    },
+    {
+      "id": 206,
+      "image_id": 69,
+      "caption": "This pavement shows cracks"
+    },
+    {
+      "id": 207,
+      "image_id": 69,
+      "caption": "Road with visible cracks"
+    },
+    {
+      "id": 208,
+      "image_id": 70,
+      "caption": "The road surface is cracked"
+    },
+    {
+      "id": 209,
+      "image_id": 70,
+      "caption": "This pavement shows cracks"
+    },
+    {
+      "id": 210,
+      "image_id": 70,
+      "caption": "Road with visible cracks"
+    },
+    {
+      "id": 211,
+      "image_id": 71,
+      "caption": "The road surface is cracked"
+    },
+    {
+      "id": 212,
+      "image_id": 71,
+      "caption": "This pavement shows cracks"
+    },
+    {
+      "id": 213,
+      "image_id": 71,
+      "caption": "Road with visible cracks"
+    },
+    {
+      "id": 214,
+      "image_id": 72,
+      "caption": "The road surface is cracked"
+    },
+    {
+      "id": 215,
+      "image_id": 72,
+      "caption": "This pavement shows cracks"
+    },
+    {
+      "id": 216,
+      "image_id": 72,
+      "caption": "Road with visible cracks"
+    },
+    {
+      "id": 217,
+      "image_id": 73,
+      "caption": "The road surface is cracked"
+    },
+    {
+      "id": 218,
+      "image_id": 73,
+      "caption": "This pavement shows cracks"
+    },
+    {
+      "id": 219,
+      "image_id": 73,
+      "caption": "Road with visible cracks"
+    },
+    {
+      "id": 220,
+      "image_id": 74,
+      "caption": "The road surface is cracked"
+    },
+    {
+      "id": 221,
+      "image_id": 74,
+      "caption": "This pavement shows cracks"
+    },
+    {
+      "id": 222,
+      "image_id": 74,
+      "caption": "Road with visible cracks"
+    },
+    {
+      "id": 223,
+      "image_id": 75,
+      "caption": "The road surface is cracked"
+    },
+    {
+      "id": 224,
+      "image_id": 75,
+      "caption": "This pavement shows cracks"
+    },
+    {
+      "id": 225,
+      "image_id": 75,
+      "caption": "Road with visible cracks"
+    },
+    {
+      "id": 226,
+      "image_id": 76,
+      "caption": "The road surface is cracked"
+    },
+    {
+      "id": 227,
+      "image_id": 76,
+      "caption": "This pavement shows cracks"
+    },
+    {
+      "id": 228,
+      "image_id": 76,
+      "caption": "Road with visible cracks"
+    },
+    {
+      "id": 229,
+      "image_id": 77,
+      "caption": "The road surface is cracked"
+    },
+    {
+      "id": 230,
+      "image_id": 77,
+      "caption": "This pavement shows cracks"
+    },
+    {
+      "id": 231,
+      "image_id": 77,
+      "caption": "Road with visible cracks"
+    },
+    {
+      "id": 232,
+      "image_id": 78,
+      "caption": "The road surface is cracked"
+    },
+    {
+      "id": 233,
+      "image_id": 78,
+      "caption": "This pavement shows cracks"
+    },
+    {
+      "id": 234,
+      "image_id": 78,
+      "caption": "Road with visible cracks"
+    },
+    {
+      "id": 235,
+      "image_id": 79,
+      "caption": "The road surface is cracked"
+    },
+    {
+      "id": 236,
+      "image_id": 79,
+      "caption": "This pavement shows cracks"
+    },
+    {
+      "id": 237,
+      "image_id": 79,
+      "caption": "Road with visible cracks"
+    },
+    {
+      "id": 238,
+      "image_id": 80,
+      "caption": "The road surface is cracked"
+    },
+    {
+      "id": 239,
+      "image_id": 80,
+      "caption": "This pavement shows cracks"
+    },
+    {
+      "id": 240,
+      "image_id": 80,
+      "caption": "Road with visible cracks"
+    },
+    {
+      "id": 241,
+      "image_id": 81,
+      "caption": "The road surface is cracked"
+    },
+    {
+      "id": 242,
+      "image_id": 81,
+      "caption": "This pavement shows cracks"
+    },
+    {
+      "id": 243,
+      "image_id": 81,
+      "caption": "Road with visible cracks"
+    },
+    {
+      "id": 244,
+      "image_id": 82,
+      "caption": "The road surface is cracked"
+    },
+    {
+      "id": 245,
+      "image_id": 82,
+      "caption": "This pavement shows cracks"
+    },
+    {
+      "id": 246,
+      "image_id": 82,
+      "caption": "Road with visible cracks"
+    },
+    {
+      "id": 247,
+      "image_id": 83,
+      "caption": "The road surface is cracked"
+    },
+    {
+      "id": 248,
+      "image_id": 83,
+      "caption": "This pavement shows cracks"
+    },
+    {
+      "id": 249,
+      "image_id": 83,
+      "caption": "Road with visible cracks"
+    },
+    {
+      "id": 250,
+      "image_id": 84,
+      "caption": "The road surface is cracked"
+    },
+    {
+      "id": 251,
+      "image_id": 84,
+      "caption": "This pavement shows cracks"
+    },
+    {
+      "id": 252,
+      "image_id": 84,
+      "caption": "Road with visible cracks"
+    },
+    {
+      "id": 253,
+      "image_id": 85,
+      "caption": "The road surface is cracked"
+    },
+    {
+      "id": 254,
+      "image_id": 85,
+      "caption": "This pavement shows cracks"
+    },
+    {
+      "id": 255,
+      "image_id": 85,
+      "caption": "Road with visible cracks"
+    },
+    {
+      "id": 256,
+      "image_id": 86,
+      "caption": "The road surface is cracked"
+    },
+    {
+      "id": 257,
+      "image_id": 86,
+      "caption": "This pavement shows cracks"
+    },
+    {
+      "id": 258,
+      "image_id": 86,
+      "caption": "Road with visible cracks"
+    },
+    {
+      "id": 259,
+      "image_id": 87,
+      "caption": "The road surface is cracked"
+    },
+    {
+      "id": 260,
+      "image_id": 87,
+      "caption": "This pavement shows cracks"
+    },
+    {
+      "id": 261,
+      "image_id": 87,
+      "caption": "Road with visible cracks"
+    },
+    {
+      "id": 262,
+      "image_id": 88,
+      "caption": "The road surface is cracked"
+    },
+    {
+      "id": 263,
+      "image_id": 88,
+      "caption": "This pavement shows cracks"
+    },
+    {
+      "id": 264,
+      "image_id": 88,
+      "caption": "Road with visible cracks"
+    },
+    {
+      "id": 265,
+      "image_id": 89,
+      "caption": "The road surface is cracked"
+    },
+    {
+      "id": 266,
+      "image_id": 89,
+      "caption": "This pavement shows cracks"
+    },
+    {
+      "id": 267,
+      "image_id": 89,
+      "caption": "Road with visible cracks"
+    },
+    {
+      "id": 268,
+      "image_id": 90,
+      "caption": "The road surface is cracked"
+    },
+    {
+      "id": 269,
+      "image_id": 90,
+      "caption": "This pavement shows cracks"
+    },
+    {
+      "id": 270,
+      "image_id": 90,
+      "caption": "Road with visible cracks"
+    },
+    {
+      "id": 271,
+      "image_id": 91,
+      "caption": "The road surface is cracked"
+    },
+    {
+      "id": 272,
+      "image_id": 91,
+      "caption": "This pavement shows cracks"
+    },
+    {
+      "id": 273,
+      "image_id": 91,
+      "caption": "Road with visible cracks"
+    },
+    {
+      "id": 274,
+      "image_id": 92,
+      "caption": "The road surface is cracked"
+    },
+    {
+      "id": 275,
+      "image_id": 92,
+      "caption": "This pavement shows cracks"
+    },
+    {
+      "id": 276,
+      "image_id": 92,
+      "caption": "Road with visible cracks"
+    },
+    {
+      "id": 277,
+      "image_id": 93,
+      "caption": "The road surface is cracked"
+    },
+    {
+      "id": 278,
+      "image_id": 93,
+      "caption": "This pavement shows cracks"
+    },
+    {
+      "id": 279,
+      "image_id": 93,
+      "caption": "Road with visible cracks"
+    },
+    {
+      "id": 280,
+      "image_id": 94,
+      "caption": "The road surface is cracked"
+    },
+    {
+      "id": 281,
+      "image_id": 94,
+      "caption": "This pavement shows cracks"
+    },
+    {
+      "id": 282,
+      "image_id": 94,
+      "caption": "Road with visible cracks"
+    },
+    {
+      "id": 283,
+      "image_id": 95,
+      "caption": "The road surface is cracked"
+    },
+    {
+      "id": 284,
+      "image_id": 95,
+      "caption": "This pavement shows cracks"
+    },
+    {
+      "id": 285,
+      "image_id": 95,
+      "caption": "Road with visible cracks"
+    },
+    {
+      "id": 286,
+      "image_id": 96,
+      "caption": "The road surface is cracked"
+    },
+    {
+      "id": 287,
+      "image_id": 96,
+      "caption": "This pavement shows cracks"
+    },
+    {
+      "id": 288,
+      "image_id": 96,
+      "caption": "Road with visible cracks"
+    },
+    {
+      "id": 289,
+      "image_id": 97,
+      "caption": "The road surface is cracked"
+    },
+    {
+      "id": 290,
+      "image_id": 97,
+      "caption": "This pavement shows cracks"
+    },
+    {
+      "id": 291,
+      "image_id": 97,
+      "caption": "Road with visible cracks"
+    },
+    {
+      "id": 292,
+      "image_id": 98,
+      "caption": "The road surface is in good condition"
+    },
+    {
+      "id": 293,
+      "image_id": 98,
+      "caption": "This pavement is well-maintained"
+    },
+    {
+      "id": 294,
+      "image_id": 98,
+      "caption": "Road with smooth surface"
+    },
+    {
+      "id": 295,
+      "image_id": 99,
+      "caption": "The road surface is in good condition"
+    },
+    {
+      "id": 296,
+      "image_id": 99,
+      "caption": "This pavement is well-maintained"
+    },
+    {
+      "id": 297,
+      "image_id": 99,
+      "caption": "Road with smooth surface"
+    },
+    {
+      "id": 298,
+      "image_id": 100,
+      "caption": "The road surface is in good condition"
+    },
+    {
+      "id": 299,
+      "image_id": 100,
+      "caption": "This pavement is well-maintained"
+    },
+    {
+      "id": 300,
+      "image_id": 100,
+      "caption": "Road with smooth surface"
+    },
+    {
+      "id": 301,
+      "image_id": 101,
+      "caption": "The road surface is in good condition"
+    },
+    {
+      "id": 302,
+      "image_id": 101,
+      "caption": "This pavement is well-maintained"
+    },
+    {
+      "id": 303,
+      "image_id": 101,
+      "caption": "Road with smooth surface"
+    },
+    {
+      "id": 304,
+      "image_id": 102,
+      "caption": "The road surface is in good condition"
+    },
+    {
+      "id": 305,
+      "image_id": 102,
+      "caption": "This pavement is well-maintained"
+    },
+    {
+      "id": 306,
+      "image_id": 102,
+      "caption": "Road with smooth surface"
+    },
+    {
+      "id": 307,
+      "image_id": 103,
+      "caption": "The road surface is in good condition"
+    },
+    {
+      "id": 308,
+      "image_id": 103,
+      "caption": "This pavement is well-maintained"
+    },
+    {
+      "id": 309,
+      "image_id": 103,
+      "caption": "Road with smooth surface"
+    },
+    {
+      "id": 310,
+      "image_id": 104,
+      "caption": "The road surface is in good condition"
+    },
+    {
+      "id": 311,
+      "image_id": 104,
+      "caption": "This pavement is well-maintained"
+    },
+    {
+      "id": 312,
+      "image_id": 104,
+      "caption": "Road with smooth surface"
+    },
+    {
+      "id": 313,
+      "image_id": 105,
+      "caption": "The road surface is in good condition"
+    },
+    {
+      "id": 314,
+      "image_id": 105,
+      "caption": "This pavement is well-maintained"
+    },
+    {
+      "id": 315,
+      "image_id": 105,
+      "caption": "Road with smooth surface"
+    },
+    {
+      "id": 316,
+      "image_id": 106,
+      "caption": "The road surface is in good condition"
+    },
+    {
+      "id": 317,
+      "image_id": 106,
+      "caption": "This pavement is well-maintained"
+    },
+    {
+      "id": 318,
+      "image_id": 106,
+      "caption": "Road with smooth surface"
+    },
+    {
+      "id": 319,
+      "image_id": 107,
+      "caption": "The road surface is in good condition"
+    },
+    {
+      "id": 320,
+      "image_id": 107,
+      "caption": "This pavement is well-maintained"
+    },
+    {
+      "id": 321,
+      "image_id": 107,
+      "caption": "Road with smooth surface"
+    },
+    {
+      "id": 322,
+      "image_id": 108,
+      "caption": "The road surface is in good condition"
+    },
+    {
+      "id": 323,
+      "image_id": 108,
+      "caption": "This pavement is well-maintained"
+    },
+    {
+      "id": 324,
+      "image_id": 108,
+      "caption": "Road with smooth surface"
+    },
+    {
+      "id": 325,
+      "image_id": 109,
+      "caption": "The road surface is in good condition"
+    },
+    {
+      "id": 326,
+      "image_id": 109,
+      "caption": "This pavement is well-maintained"
+    },
+    {
+      "id": 327,
+      "image_id": 109,
+      "caption": "Road with smooth surface"
+    },
+    {
+      "id": 328,
+      "image_id": 110,
+      "caption": "The road surface is in good condition"
+    },
+    {
+      "id": 329,
+      "image_id": 110,
+      "caption": "This pavement is well-maintained"
+    },
+    {
+      "id": 330,
+      "image_id": 110,
+      "caption": "Road with smooth surface"
+    },
+    {
+      "id": 331,
+      "image_id": 111,
+      "caption": "The road surface is in good condition"
+    },
+    {
+      "id": 332,
+      "image_id": 111,
+      "caption": "This pavement is well-maintained"
+    },
+    {
+      "id": 333,
+      "image_id": 111,
+      "caption": "Road with smooth surface"
+    },
+    {
+      "id": 334,
+      "image_id": 112,
+      "caption": "The road surface is in good condition"
+    },
+    {
+      "id": 335,
+      "image_id": 112,
+      "caption": "This pavement is well-maintained"
+    },
+    {
+      "id": 336,
+      "image_id": 112,
+      "caption": "Road with smooth surface"
+    },
+    {
+      "id": 337,
+      "image_id": 113,
+      "caption": "The road surface is in good condition"
+    },
+    {
+      "id": 338,
+      "image_id": 113,
+      "caption": "This pavement is well-maintained"
+    },
+    {
+      "id": 339,
+      "image_id": 113,
+      "caption": "Road with smooth surface"
+    },
+    {
+      "id": 340,
+      "image_id": 114,
+      "caption": "The road surface is in good condition"
+    },
+    {
+      "id": 341,
+      "image_id": 114,
+      "caption": "This pavement is well-maintained"
+    },
+    {
+      "id": 342,
+      "image_id": 114,
+      "caption": "Road with smooth surface"
+    },
+    {
+      "id": 343,
+      "image_id": 115,
+      "caption": "The road surface is in good condition"
+    },
+    {
+      "id": 344,
+      "image_id": 115,
+      "caption": "This pavement is well-maintained"
+    },
+    {
+      "id": 345,
+      "image_id": 115,
+      "caption": "Road with smooth surface"
+    },
+    {
+      "id": 346,
+      "image_id": 116,
+      "caption": "The road surface is in good condition"
+    },
+    {
+      "id": 347,
+      "image_id": 116,
+      "caption": "This pavement is well-maintained"
+    },
+    {
+      "id": 348,
+      "image_id": 116,
+      "caption": "Road with smooth surface"
+    },
+    {
+      "id": 349,
+      "image_id": 117,
+      "caption": "The road surface is in good condition"
+    },
+    {
+      "id": 350,
+      "image_id": 117,
+      "caption": "This pavement is well-maintained"
+    },
+    {
+      "id": 351,
+      "image_id": 117,
+      "caption": "Road with smooth surface"
+    },
+    {
+      "id": 352,
+      "image_id": 118,
+      "caption": "The road surface is in good condition"
+    },
+    {
+      "id": 353,
+      "image_id": 118,
+      "caption": "This pavement is well-maintained"
+    },
+    {
+      "id": 354,
+      "image_id": 118,
+      "caption": "Road with smooth surface"
+    },
+    {
+      "id": 355,
+      "image_id": 119,
+      "caption": "The road surface is in good condition"
+    },
+    {
+      "id": 356,
+      "image_id": 119,
+      "caption": "This pavement is well-maintained"
+    },
+    {
+      "id": 357,
+      "image_id": 119,
+      "caption": "Road with smooth surface"
+    },
+    {
+      "id": 358,
+      "image_id": 120,
+      "caption": "The road surface is in good condition"
+    },
+    {
+      "id": 359,
+      "image_id": 120,
+      "caption": "This pavement is well-maintained"
+    },
+    {
+      "id": 360,
+      "image_id": 120,
+      "caption": "Road with smooth surface"
+    },
+    {
+      "id": 361,
+      "image_id": 121,
+      "caption": "The road surface is in good condition"
+    },
+    {
+      "id": 362,
+      "image_id": 121,
+      "caption": "This pavement is well-maintained"
+    },
+    {
+      "id": 363,
+      "image_id": 121,
+      "caption": "Road with smooth surface"
+    },
+    {
+      "id": 364,
+      "image_id": 122,
+      "caption": "The road surface is in good condition"
+    },
+    {
+      "id": 365,
+      "image_id": 122,
+      "caption": "This pavement is well-maintained"
+    },
+    {
+      "id": 366,
+      "image_id": 122,
+      "caption": "Road with smooth surface"
+    },
+    {
+      "id": 367,
+      "image_id": 123,
+      "caption": "The road surface is in good condition"
+    },
+    {
+      "id": 368,
+      "image_id": 123,
+      "caption": "This pavement is well-maintained"
+    },
+    {
+      "id": 369,
+      "image_id": 123,
+      "caption": "Road with smooth surface"
+    },
+    {
+      "id": 370,
+      "image_id": 124,
+      "caption": "The road surface is in good condition"
+    },
+    {
+      "id": 371,
+      "image_id": 124,
+      "caption": "This pavement is well-maintained"
+    },
+    {
+      "id": 372,
+      "image_id": 124,
+      "caption": "Road with smooth surface"
+    },
+    {
+      "id": 373,
+      "image_id": 125,
+      "caption": "The road surface is in good condition"
+    },
+    {
+      "id": 374,
+      "image_id": 125,
+      "caption": "This pavement is well-maintained"
+    },
+    {
+      "id": 375,
+      "image_id": 125,
+      "caption": "Road with smooth surface"
+    },
+    {
+      "id": 376,
+      "image_id": 126,
+      "caption": "The road surface is in good condition"
+    },
+    {
+      "id": 377,
+      "image_id": 126,
+      "caption": "This pavement is well-maintained"
+    },
+    {
+      "id": 378,
+      "image_id": 126,
+      "caption": "Road with smooth surface"
+    },
+    {
+      "id": 379,
+      "image_id": 127,
+      "caption": "The road surface is in good condition"
+    },
+    {
+      "id": 380,
+      "image_id": 127,
+      "caption": "This pavement is well-maintained"
+    },
+    {
+      "id": 381,
+      "image_id": 127,
+      "caption": "Road with smooth surface"
+    },
+    {
+      "id": 382,
+      "image_id": 128,
+      "caption": "The road surface is in good condition"
+    },
+    {
+      "id": 383,
+      "image_id": 128,
+      "caption": "This pavement is well-maintained"
+    },
+    {
+      "id": 384,
+      "image_id": 128,
+      "caption": "Road with smooth surface"
+    },
+    {
+      "id": 385,
+      "image_id": 129,
+      "caption": "The road surface is in good condition"
+    },
+    {
+      "id": 386,
+      "image_id": 129,
+      "caption": "This pavement is well-maintained"
+    },
+    {
+      "id": 387,
+      "image_id": 129,
+      "caption": "Road with smooth surface"
+    },
+    {
+      "id": 388,
+      "image_id": 130,
+      "caption": "The road surface is in good condition"
+    },
+    {
+      "id": 389,
+      "image_id": 130,
+      "caption": "This pavement is well-maintained"
+    },
+    {
+      "id": 390,
+      "image_id": 130,
+      "caption": "Road with smooth surface"
+    },
+    {
+      "id": 391,
+      "image_id": 131,
+      "caption": "The road surface is in good condition"
+    },
+    {
+      "id": 392,
+      "image_id": 131,
+      "caption": "This pavement is well-maintained"
+    },
+    {
+      "id": 393,
+      "image_id": 131,
+      "caption": "Road with smooth surface"
+    },
+    {
+      "id": 394,
+      "image_id": 132,
+      "caption": "The road surface is in good condition"
+    },
+    {
+      "id": 395,
+      "image_id": 132,
+      "caption": "This pavement is well-maintained"
+    },
+    {
+      "id": 396,
+      "image_id": 132,
+      "caption": "Road with smooth surface"
+    },
+    {
+      "id": 397,
+      "image_id": 133,
+      "caption": "The road surface is in good condition"
+    },
+    {
+      "id": 398,
+      "image_id": 133,
+      "caption": "This pavement is well-maintained"
+    },
+    {
+      "id": 399,
+      "image_id": 133,
+      "caption": "Road with smooth surface"
+    },
+    {
+      "id": 400,
+      "image_id": 134,
+      "caption": "The road surface is in good condition"
+    },
+    {
+      "id": 401,
+      "image_id": 134,
+      "caption": "This pavement is well-maintained"
+    },
+    {
+      "id": 402,
+      "image_id": 134,
+      "caption": "Road with smooth surface"
+    },
+    {
+      "id": 403,
+      "image_id": 135,
+      "caption": "The road surface is in good condition"
+    },
+    {
+      "id": 404,
+      "image_id": 135,
+      "caption": "This pavement is well-maintained"
+    },
+    {
+      "id": 405,
+      "image_id": 135,
+      "caption": "Road with smooth surface"
+    },
+    {
+      "id": 406,
+      "image_id": 136,
+      "caption": "The road surface is in good condition"
+    },
+    {
+      "id": 407,
+      "image_id": 136,
+      "caption": "This pavement is well-maintained"
+    },
+    {
+      "id": 408,
+      "image_id": 136,
+      "caption": "Road with smooth surface"
+    },
+    {
+      "id": 409,
+      "image_id": 137,
+      "caption": "The road surface is in good condition"
+    },
+    {
+      "id": 410,
+      "image_id": 137,
+      "caption": "This pavement is well-maintained"
+    },
+    {
+      "id": 411,
+      "image_id": 137,
+      "caption": "Road with smooth surface"
+    },
+    {
+      "id": 412,
+      "image_id": 138,
+      "caption": "The road surface is in good condition"
+    },
+    {
+      "id": 413,
+      "image_id": 138,
+      "caption": "This pavement is well-maintained"
+    },
+    {
+      "id": 414,
+      "image_id": 138,
+      "caption": "Road with smooth surface"
+    },
+    {
+      "id": 415,
+      "image_id": 139,
+      "caption": "The road surface is in good condition"
+    },
+    {
+      "id": 416,
+      "image_id": 139,
+      "caption": "This pavement is well-maintained"
+    },
+    {
+      "id": 417,
+      "image_id": 139,
+      "caption": "Road with smooth surface"
+    },
+    {
+      "id": 418,
+      "image_id": 140,
+      "caption": "The road surface is in good condition"
+    },
+    {
+      "id": 419,
+      "image_id": 140,
+      "caption": "This pavement is well-maintained"
+    },
+    {
+      "id": 420,
+      "image_id": 140,
+      "caption": "Road with smooth surface"
+    },
+    {
+      "id": 421,
+      "image_id": 141,
+      "caption": "The road surface is in good condition"
+    },
+    {
+      "id": 422,
+      "image_id": 141,
+      "caption": "This pavement is well-maintained"
+    },
+    {
+      "id": 423,
+      "image_id": 141,
+      "caption": "Road with smooth surface"
+    },
+    {
+      "id": 424,
+      "image_id": 142,
+      "caption": "The road surface is in good condition"
+    },
+    {
+      "id": 425,
+      "image_id": 142,
+      "caption": "This pavement is well-maintained"
+    },
+    {
+      "id": 426,
+      "image_id": 142,
+      "caption": "Road with smooth surface"
+    },
+    {
+      "id": 427,
+      "image_id": 143,
+      "caption": "The road surface is in good condition"
+    },
+    {
+      "id": 428,
+      "image_id": 143,
+      "caption": "This pavement is well-maintained"
+    },
+    {
+      "id": 429,
+      "image_id": 143,
+      "caption": "Road with smooth surface"
+    },
+    {
+      "id": 430,
+      "image_id": 144,
+      "caption": "The road surface is in good condition"
+    },
+    {
+      "id": 431,
+      "image_id": 144,
+      "caption": "This pavement is well-maintained"
+    },
+    {
+      "id": 432,
+      "image_id": 144,
+      "caption": "Road with smooth surface"
+    },
+    {
+      "id": 433,
+      "image_id": 145,
+      "caption": "The road surface is in good condition"
+    },
+    {
+      "id": 434,
+      "image_id": 145,
+      "caption": "This pavement is well-maintained"
+    },
+    {
+      "id": 435,
+      "image_id": 145,
+      "caption": "Road with smooth surface"
+    },
+    {
+      "id": 436,
+      "image_id": 146,
+      "caption": "The road surface is in good condition"
+    },
+    {
+      "id": 437,
+      "image_id": 146,
+      "caption": "This pavement is well-maintained"
+    },
+    {
+      "id": 438,
+      "image_id": 146,
+      "caption": "Road with smooth surface"
+    },
+    {
+      "id": 439,
+      "image_id": 147,
+      "caption": "The road surface is in good condition"
+    },
+    {
+      "id": 440,
+      "image_id": 147,
+      "caption": "This pavement is well-maintained"
+    },
+    {
+      "id": 441,
+      "image_id": 147,
+      "caption": "Road with smooth surface"
+    },
+    {
+      "id": 442,
+      "image_id": 148,
+      "caption": "The road surface is in good condition"
+    },
+    {
+      "id": 443,
+      "image_id": 148,
+      "caption": "This pavement is well-maintained"
+    },
+    {
+      "id": 444,
+      "image_id": 148,
+      "caption": "Road with smooth surface"
+    },
+    {
+      "id": 445,
+      "image_id": 149,
+      "caption": "The road surface is in good condition"
+    },
+    {
+      "id": 446,
+      "image_id": 149,
+      "caption": "This pavement is well-maintained"
+    },
+    {
+      "id": 447,
+      "image_id": 149,
+      "caption": "Road with smooth surface"
+    },
+    {
+      "id": 448,
+      "image_id": 150,
+      "caption": "The road surface is in good condition"
+    },
+    {
+      "id": 449,
+      "image_id": 150,
+      "caption": "This pavement is well-maintained"
+    },
+    {
+      "id": 450,
+      "image_id": 150,
+      "caption": "Road with smooth surface"
+    },
+    {
+      "id": 451,
+      "image_id": 151,
+      "caption": "The road surface is potholed"
+    },
+    {
+      "id": 452,
+      "image_id": 151,
+      "caption": "This pavement has potholes"
+    },
+    {
+      "id": 453,
+      "image_id": 151,
+      "caption": "Road with damaged surface showing potholes"
+    },
+    {
+      "id": 454,
+      "image_id": 152,
+      "caption": "The road surface is potholed"
+    },
+    {
+      "id": 455,
+      "image_id": 152,
+      "caption": "This pavement has potholes"
+    },
+    {
+      "id": 456,
+      "image_id": 152,
+      "caption": "Road with damaged surface showing potholes"
+    },
+    {
+      "id": 457,
+      "image_id": 153,
+      "caption": "The road surface is potholed"
+    },
+    {
+      "id": 458,
+      "image_id": 153,
+      "caption": "This pavement has potholes"
+    },
+    {
+      "id": 459,
+      "image_id": 153,
+      "caption": "Road with damaged surface showing potholes"
+    },
+    {
+      "id": 460,
+      "image_id": 154,
+      "caption": "The road surface is potholed"
+    },
+    {
+      "id": 461,
+      "image_id": 154,
+      "caption": "This pavement has potholes"
+    },
+    {
+      "id": 462,
+      "image_id": 154,
+      "caption": "Road with damaged surface showing potholes"
+    },
+    {
+      "id": 463,
+      "image_id": 155,
+      "caption": "The road surface is potholed"
+    },
+    {
+      "id": 464,
+      "image_id": 155,
+      "caption": "This pavement has potholes"
+    },
+    {
+      "id": 465,
+      "image_id": 155,
+      "caption": "Road with damaged surface showing potholes"
+    },
+    {
+      "id": 466,
+      "image_id": 156,
+      "caption": "The road surface is potholed"
+    },
+    {
+      "id": 467,
+      "image_id": 156,
+      "caption": "This pavement has potholes"
+    },
+    {
+      "id": 468,
+      "image_id": 156,
+      "caption": "Road with damaged surface showing potholes"
+    },
+    {
+      "id": 469,
+      "image_id": 157,
+      "caption": "The road surface is potholed"
+    },
+    {
+      "id": 470,
+      "image_id": 157,
+      "caption": "This pavement has potholes"
+    },
+    {
+      "id": 471,
+      "image_id": 157,
+      "caption": "Road with damaged surface showing potholes"
+    },
+    {
+      "id": 472,
+      "image_id": 158,
+      "caption": "The road surface is potholed"
+    },
+    {
+      "id": 473,
+      "image_id": 158,
+      "caption": "This pavement has potholes"
+    },
+    {
+      "id": 474,
+      "image_id": 158,
+      "caption": "Road with damaged surface showing potholes"
+    },
+    {
+      "id": 475,
+      "image_id": 159,
+      "caption": "The road surface is potholed"
+    },
+    {
+      "id": 476,
+      "image_id": 159,
+      "caption": "This pavement has potholes"
+    },
+    {
+      "id": 477,
+      "image_id": 159,
+      "caption": "Road with damaged surface showing potholes"
+    },
+    {
+      "id": 478,
+      "image_id": 160,
+      "caption": "The road surface is potholed"
+    },
+    {
+      "id": 479,
+      "image_id": 160,
+      "caption": "This pavement has potholes"
+    },
+    {
+      "id": 480,
+      "image_id": 160,
+      "caption": "Road with damaged surface showing potholes"
+    },
+    {
+      "id": 481,
+      "image_id": 161,
+      "caption": "The road surface is potholed"
+    },
+    {
+      "id": 482,
+      "image_id": 161,
+      "caption": "This pavement has potholes"
+    },
+    {
+      "id": 483,
+      "image_id": 161,
+      "caption": "Road with damaged surface showing potholes"
+    },
+    {
+      "id": 484,
+      "image_id": 162,
+      "caption": "The road surface is potholed"
+    },
+    {
+      "id": 485,
+      "image_id": 162,
+      "caption": "This pavement has potholes"
+    },
+    {
+      "id": 486,
+      "image_id": 162,
+      "caption": "Road with damaged surface showing potholes"
+    },
+    {
+      "id": 487,
+      "image_id": 163,
+      "caption": "The road surface is potholed"
+    },
+    {
+      "id": 488,
+      "image_id": 163,
+      "caption": "This pavement has potholes"
+    },
+    {
+      "id": 489,
+      "image_id": 163,
+      "caption": "Road with damaged surface showing potholes"
+    },
+    {
+      "id": 490,
+      "image_id": 164,
+      "caption": "The road surface is potholed"
+    },
+    {
+      "id": 491,
+      "image_id": 164,
+      "caption": "This pavement has potholes"
+    },
+    {
+      "id": 492,
+      "image_id": 164,
+      "caption": "Road with damaged surface showing potholes"
+    },
+    {
+      "id": 493,
+      "image_id": 165,
+      "caption": "The road surface is potholed"
+    },
+    {
+      "id": 494,
+      "image_id": 165,
+      "caption": "This pavement has potholes"
+    },
+    {
+      "id": 495,
+      "image_id": 165,
+      "caption": "Road with damaged surface showing potholes"
+    },
+    {
+      "id": 496,
+      "image_id": 166,
+      "caption": "The road surface is potholed"
+    },
+    {
+      "id": 497,
+      "image_id": 166,
+      "caption": "This pavement has potholes"
+    },
+    {
+      "id": 498,
+      "image_id": 166,
+      "caption": "Road with damaged surface showing potholes"
+    },
+    {
+      "id": 499,
+      "image_id": 167,
+      "caption": "The road surface is potholed"
+    },
+    {
+      "id": 500,
+      "image_id": 167,
+      "caption": "This pavement has potholes"
+    },
+    {
+      "id": 501,
+      "image_id": 167,
+      "caption": "Road with damaged surface showing potholes"
+    },
+    {
+      "id": 502,
+      "image_id": 168,
+      "caption": "The road surface is potholed"
+    },
+    {
+      "id": 503,
+      "image_id": 168,
+      "caption": "This pavement has potholes"
+    },
+    {
+      "id": 504,
+      "image_id": 168,
+      "caption": "Road with damaged surface showing potholes"
+    },
+    {
+      "id": 505,
+      "image_id": 169,
+      "caption": "The road surface is potholed"
+    },
+    {
+      "id": 506,
+      "image_id": 169,
+      "caption": "This pavement has potholes"
+    },
+    {
+      "id": 507,
+      "image_id": 169,
+      "caption": "Road with damaged surface showing potholes"
+    },
+    {
+      "id": 508,
+      "image_id": 170,
+      "caption": "The road surface is potholed"
+    },
+    {
+      "id": 509,
+      "image_id": 170,
+      "caption": "This pavement has potholes"
+    },
+    {
+      "id": 510,
+      "image_id": 170,
+      "caption": "Road with damaged surface showing potholes"
+    },
+    {
+      "id": 511,
+      "image_id": 171,
+      "caption": "The road surface is potholed"
+    },
+    {
+      "id": 512,
+      "image_id": 171,
+      "caption": "This pavement has potholes"
+    },
+    {
+      "id": 513,
+      "image_id": 171,
+      "caption": "Road with damaged surface showing potholes"
+    },
+    {
+      "id": 514,
+      "image_id": 172,
+      "caption": "The road surface is potholed"
+    },
+    {
+      "id": 515,
+      "image_id": 172,
+      "caption": "This pavement has potholes"
+    },
+    {
+      "id": 516,
+      "image_id": 172,
+      "caption": "Road with damaged surface showing potholes"
+    },
+    {
+      "id": 517,
+      "image_id": 173,
+      "caption": "The road surface is potholed"
+    },
+    {
+      "id": 518,
+      "image_id": 173,
+      "caption": "This pavement has potholes"
+    },
+    {
+      "id": 519,
+      "image_id": 173,
+      "caption": "Road with damaged surface showing potholes"
+    },
+    {
+      "id": 520,
+      "image_id": 174,
+      "caption": "The road surface is potholed"
+    },
+    {
+      "id": 521,
+      "image_id": 174,
+      "caption": "This pavement has potholes"
+    },
+    {
+      "id": 522,
+      "image_id": 174,
+      "caption": "Road with damaged surface showing potholes"
+    },
+    {
+      "id": 523,
+      "image_id": 175,
+      "caption": "The road surface is potholed"
+    },
+    {
+      "id": 524,
+      "image_id": 175,
+      "caption": "This pavement has potholes"
+    },
+    {
+      "id": 525,
+      "image_id": 175,
+      "caption": "Road with damaged surface showing potholes"
+    },
+    {
+      "id": 526,
+      "image_id": 176,
+      "caption": "The road surface is potholed"
+    },
+    {
+      "id": 527,
+      "image_id": 176,
+      "caption": "This pavement has potholes"
+    },
+    {
+      "id": 528,
+      "image_id": 176,
+      "caption": "Road with damaged surface showing potholes"
+    },
+    {
+      "id": 529,
+      "image_id": 177,
+      "caption": "The road surface is potholed"
+    },
+    {
+      "id": 530,
+      "image_id": 177,
+      "caption": "This pavement has potholes"
+    },
+    {
+      "id": 531,
+      "image_id": 177,
+      "caption": "Road with damaged surface showing potholes"
+    },
+    {
+      "id": 532,
+      "image_id": 178,
+      "caption": "The road surface is potholed"
+    },
+    {
+      "id": 533,
+      "image_id": 178,
+      "caption": "This pavement has potholes"
+    },
+    {
+      "id": 534,
+      "image_id": 178,
+      "caption": "Road with damaged surface showing potholes"
+    },
+    {
+      "id": 535,
+      "image_id": 179,
+      "caption": "The road surface is potholed"
+    },
+    {
+      "id": 536,
+      "image_id": 179,
+      "caption": "This pavement has potholes"
+    },
+    {
+      "id": 537,
+      "image_id": 179,
+      "caption": "Road with damaged surface showing potholes"
+    },
+    {
+      "id": 538,
+      "image_id": 180,
+      "caption": "The road surface is potholed"
+    },
+    {
+      "id": 539,
+      "image_id": 180,
+      "caption": "This pavement has potholes"
+    },
+    {
+      "id": 540,
+      "image_id": 180,
+      "caption": "Road with damaged surface showing potholes"
+    },
+    {
+      "id": 541,
+      "image_id": 181,
+      "caption": "The road surface is potholed"
+    },
+    {
+      "id": 542,
+      "image_id": 181,
+      "caption": "This pavement has potholes"
+    },
+    {
+      "id": 543,
+      "image_id": 181,
+      "caption": "Road with damaged surface showing potholes"
+    },
+    {
+      "id": 544,
+      "image_id": 182,
+      "caption": "The road surface is potholed"
+    },
+    {
+      "id": 545,
+      "image_id": 182,
+      "caption": "This pavement has potholes"
+    },
+    {
+      "id": 546,
+      "image_id": 182,
+      "caption": "Road with damaged surface showing potholes"
+    },
+    {
+      "id": 547,
+      "image_id": 183,
+      "caption": "The road surface is potholed"
+    },
+    {
+      "id": 548,
+      "image_id": 183,
+      "caption": "This pavement has potholes"
+    },
+    {
+      "id": 549,
+      "image_id": 183,
+      "caption": "Road with damaged surface showing potholes"
+    },
+    {
+      "id": 550,
+      "image_id": 184,
+      "caption": "The road surface is potholed"
+    },
+    {
+      "id": 551,
+      "image_id": 184,
+      "caption": "This pavement has potholes"
+    },
+    {
+      "id": 552,
+      "image_id": 184,
+      "caption": "Road with damaged surface showing potholes"
+    },
+    {
+      "id": 553,
+      "image_id": 185,
+      "caption": "The road surface is potholed"
+    },
+    {
+      "id": 554,
+      "image_id": 185,
+      "caption": "This pavement has potholes"
+    },
+    {
+      "id": 555,
+      "image_id": 185,
+      "caption": "Road with damaged surface showing potholes"
+    },
+    {
+      "id": 556,
+      "image_id": 186,
+      "caption": "The road surface is potholed"
+    },
+    {
+      "id": 557,
+      "image_id": 186,
+      "caption": "This pavement has potholes"
+    },
+    {
+      "id": 558,
+      "image_id": 186,
+      "caption": "Road with damaged surface showing potholes"
+    },
+    {
+      "id": 559,
+      "image_id": 187,
+      "caption": "The road surface is potholed"
+    },
+    {
+      "id": 560,
+      "image_id": 187,
+      "caption": "This pavement has potholes"
+    },
+    {
+      "id": 561,
+      "image_id": 187,
+      "caption": "Road with damaged surface showing potholes"
+    },
+    {
+      "id": 562,
+      "image_id": 188,
+      "caption": "The road surface is potholed"
+    },
+    {
+      "id": 563,
+      "image_id": 188,
+      "caption": "This pavement has potholes"
+    },
+    {
+      "id": 564,
+      "image_id": 188,
+      "caption": "Road with damaged surface showing potholes"
+    },
+    {
+      "id": 565,
+      "image_id": 189,
+      "caption": "The road surface is potholed"
+    },
+    {
+      "id": 566,
+      "image_id": 189,
+      "caption": "This pavement has potholes"
+    },
+    {
+      "id": 567,
+      "image_id": 189,
+      "caption": "Road with damaged surface showing potholes"
+    },
+    {
+      "id": 568,
+      "image_id": 190,
+      "caption": "The road surface is potholed"
+    },
+    {
+      "id": 569,
+      "image_id": 190,
+      "caption": "This pavement has potholes"
+    },
+    {
+      "id": 570,
+      "image_id": 190,
+      "caption": "Road with damaged surface showing potholes"
+    },
+    {
+      "id": 571,
+      "image_id": 191,
+      "caption": "The road surface is potholed"
+    },
+    {
+      "id": 572,
+      "image_id": 191,
+      "caption": "This pavement has potholes"
+    },
+    {
+      "id": 573,
+      "image_id": 191,
+      "caption": "Road with damaged surface showing potholes"
+    },
+    {
+      "id": 574,
+      "image_id": 192,
+      "caption": "The road surface is potholed"
+    },
+    {
+      "id": 575,
+      "image_id": 192,
+      "caption": "This pavement has potholes"
+    },
+    {
+      "id": 576,
+      "image_id": 192,
+      "caption": "Road with damaged surface showing potholes"
+    },
+    {
+      "id": 577,
+      "image_id": 193,
+      "caption": "The road surface is potholed"
+    },
+    {
+      "id": 578,
+      "image_id": 193,
+      "caption": "This pavement has potholes"
+    },
+    {
+      "id": 579,
+      "image_id": 193,
+      "caption": "Road with damaged surface showing potholes"
+    },
+    {
+      "id": 580,
+      "image_id": 194,
+      "caption": "The road surface is potholed"
+    },
+    {
+      "id": 581,
+      "image_id": 194,
+      "caption": "This pavement has potholes"
+    },
+    {
+      "id": 582,
+      "image_id": 194,
+      "caption": "Road with damaged surface showing potholes"
+    },
+    {
+      "id": 583,
+      "image_id": 195,
+      "caption": "The road surface is potholed"
+    },
+    {
+      "id": 584,
+      "image_id": 195,
+      "caption": "This pavement has potholes"
+    },
+    {
+      "id": 585,
+      "image_id": 195,
+      "caption": "Road with damaged surface showing potholes"
+    },
+    {
+      "id": 586,
+      "image_id": 196,
+      "caption": "The road surface is potholed"
+    },
+    {
+      "id": 587,
+      "image_id": 196,
+      "caption": "This pavement has potholes"
+    },
+    {
+      "id": 588,
+      "image_id": 196,
+      "caption": "Road with damaged surface showing potholes"
+    },
+    {
+      "id": 589,
+      "image_id": 197,
+      "caption": "The road surface is potholed"
+    },
+    {
+      "id": 590,
+      "image_id": 197,
+      "caption": "This pavement has potholes"
+    },
+    {
+      "id": 591,
+      "image_id": 197,
+      "caption": "Road with damaged surface showing potholes"
+    },
+    {
+      "id": 592,
+      "image_id": 198,
+      "caption": "The road surface is potholed"
+    },
+    {
+      "id": 593,
+      "image_id": 198,
+      "caption": "This pavement has potholes"
+    },
+    {
+      "id": 594,
+      "image_id": 198,
+      "caption": "Road with damaged surface showing potholes"
+    },
+    {
+      "id": 595,
+      "image_id": 199,
+      "caption": "The road surface is potholed"
+    },
+    {
+      "id": 596,
+      "image_id": 199,
+      "caption": "This pavement has potholes"
+    },
+    {
+      "id": 597,
+      "image_id": 199,
+      "caption": "Road with damaged surface showing potholes"
+    },
+    {
+      "id": 598,
+      "image_id": 200,
+      "caption": "The road surface is potholed"
+    },
+    {
+      "id": 599,
+      "image_id": 200,
+      "caption": "This pavement has potholes"
+    },
+    {
+      "id": 600,
+      "image_id": 200,
+      "caption": "Road with damaged surface showing potholes"
+    },
+    {
+      "id": 601,
+      "image_id": 201,
+      "caption": "The road surface is potholed"
+    },
+    {
+      "id": 602,
+      "image_id": 201,
+      "caption": "This pavement has potholes"
+    },
+    {
+      "id": 603,
+      "image_id": 201,
+      "caption": "Road with damaged surface showing potholes"
+    },
+    {
+      "id": 604,
+      "image_id": 202,
+      "caption": "The road surface is potholed"
+    },
+    {
+      "id": 605,
+      "image_id": 202,
+      "caption": "This pavement has potholes"
+    },
+    {
+      "id": 606,
+      "image_id": 202,
+      "caption": "Road with damaged surface showing potholes"
+    },
+    {
+      "id": 607,
+      "image_id": 203,
+      "caption": "The road surface is potholed"
+    },
+    {
+      "id": 608,
+      "image_id": 203,
+      "caption": "This pavement has potholes"
+    },
+    {
+      "id": 609,
+      "image_id": 203,
+      "caption": "Road with damaged surface showing potholes"
+    },
+    {
+      "id": 610,
+      "image_id": 204,
+      "caption": "The road surface is potholed"
+    },
+    {
+      "id": 611,
+      "image_id": 204,
+      "caption": "This pavement has potholes"
+    },
+    {
+      "id": 612,
+      "image_id": 204,
+      "caption": "Road with damaged surface showing potholes"
+    },
+    {
+      "id": 613,
+      "image_id": 205,
+      "caption": "The road surface is potholed"
+    },
+    {
+      "id": 614,
+      "image_id": 205,
+      "caption": "This pavement has potholes"
+    },
+    {
+      "id": 615,
+      "image_id": 205,
+      "caption": "Road with damaged surface showing potholes"
+    },
+    {
+      "id": 616,
+      "image_id": 206,
+      "caption": "The road surface is potholed"
+    },
+    {
+      "id": 617,
+      "image_id": 206,
+      "caption": "This pavement has potholes"
+    },
+    {
+      "id": 618,
+      "image_id": 206,
+      "caption": "Road with damaged surface showing potholes"
+    },
+    {
+      "id": 619,
+      "image_id": 207,
+      "caption": "The road surface is potholed"
+    },
+    {
+      "id": 620,
+      "image_id": 207,
+      "caption": "This pavement has potholes"
+    },
+    {
+      "id": 621,
+      "image_id": 207,
+      "caption": "Road with damaged surface showing potholes"
+    },
+    {
+      "id": 622,
+      "image_id": 208,
+      "caption": "The road surface is potholed"
+    },
+    {
+      "id": 623,
+      "image_id": 208,
+      "caption": "This pavement has potholes"
+    },
+    {
+      "id": 624,
+      "image_id": 208,
+      "caption": "Road with damaged surface showing potholes"
+    },
+    {
+      "id": 625,
+      "image_id": 209,
+      "caption": "The road surface is potholed"
+    },
+    {
+      "id": 626,
+      "image_id": 209,
+      "caption": "This pavement has potholes"
+    },
+    {
+      "id": 627,
+      "image_id": 209,
+      "caption": "Road with damaged surface showing potholes"
+    },
+    {
+      "id": 628,
+      "image_id": 210,
+      "caption": "The road surface is potholed"
+    },
+    {
+      "id": 629,
+      "image_id": 210,
+      "caption": "This pavement has potholes"
+    },
+    {
+      "id": 630,
+      "image_id": 210,
+      "caption": "Road with damaged surface showing potholes"
+    },
+    {
+      "id": 631,
+      "image_id": 211,
+      "caption": "The road surface is potholed"
+    },
+    {
+      "id": 632,
+      "image_id": 211,
+      "caption": "This pavement has potholes"
+    },
+    {
+      "id": 633,
+      "image_id": 211,
+      "caption": "Road with damaged surface showing potholes"
+    },
+    {
+      "id": 634,
+      "image_id": 212,
+      "caption": "The road surface is potholed"
+    },
+    {
+      "id": 635,
+      "image_id": 212,
+      "caption": "This pavement has potholes"
+    },
+    {
+      "id": 636,
+      "image_id": 212,
+      "caption": "Road with damaged surface showing potholes"
+    },
+    {
+      "id": 637,
+      "image_id": 213,
+      "caption": "The road surface is potholed"
+    },
+    {
+      "id": 638,
+      "image_id": 213,
+      "caption": "This pavement has potholes"
+    },
+    {
+      "id": 639,
+      "image_id": 213,
+      "caption": "Road with damaged surface showing potholes"
+    },
+    {
+      "id": 640,
+      "image_id": 214,
+      "caption": "The road surface is potholed"
+    },
+    {
+      "id": 641,
+      "image_id": 214,
+      "caption": "This pavement has potholes"
+    },
+    {
+      "id": 642,
+      "image_id": 214,
+      "caption": "Road with damaged surface showing potholes"
+    },
+    {
+      "id": 643,
+      "image_id": 215,
+      "caption": "The road surface is potholed"
+    },
+    {
+      "id": 644,
+      "image_id": 215,
+      "caption": "This pavement has potholes"
+    },
+    {
+      "id": 645,
+      "image_id": 215,
+      "caption": "Road with damaged surface showing potholes"
+    },
+    {
+      "id": 646,
+      "image_id": 216,
+      "caption": "The road surface is potholed"
+    },
+    {
+      "id": 647,
+      "image_id": 216,
+      "caption": "This pavement has potholes"
+    },
+    {
+      "id": 648,
+      "image_id": 216,
+      "caption": "Road with damaged surface showing potholes"
+    },
+    {
+      "id": 649,
+      "image_id": 217,
+      "caption": "The road surface is potholed"
+    },
+    {
+      "id": 650,
+      "image_id": 217,
+      "caption": "This pavement has potholes"
+    },
+    {
+      "id": 651,
+      "image_id": 217,
+      "caption": "Road with damaged surface showing potholes"
+    },
+    {
+      "id": 652,
+      "image_id": 218,
+      "caption": "The road surface is potholed"
+    },
+    {
+      "id": 653,
+      "image_id": 218,
+      "caption": "This pavement has potholes"
+    },
+    {
+      "id": 654,
+      "image_id": 218,
+      "caption": "Road with damaged surface showing potholes"
+    },
+    {
+      "id": 655,
+      "image_id": 219,
+      "caption": "The road surface is potholed"
+    },
+    {
+      "id": 656,
+      "image_id": 219,
+      "caption": "This pavement has potholes"
+    },
+    {
+      "id": 657,
+      "image_id": 219,
+      "caption": "Road with damaged surface showing potholes"
+    },
+    {
+      "id": 658,
+      "image_id": 220,
+      "caption": "The road surface is potholed"
+    },
+    {
+      "id": 659,
+      "image_id": 220,
+      "caption": "This pavement has potholes"
+    },
+    {
+      "id": 660,
+      "image_id": 220,
+      "caption": "Road with damaged surface showing potholes"
+    },
+    {
+      "id": 661,
+      "image_id": 221,
+      "caption": "The road surface is potholed"
+    },
+    {
+      "id": 662,
+      "image_id": 221,
+      "caption": "This pavement has potholes"
+    },
+    {
+      "id": 663,
+      "image_id": 221,
+      "caption": "Road with damaged surface showing potholes"
+    },
+    {
+      "id": 664,
+      "image_id": 222,
+      "caption": "The road surface is potholed"
+    },
+    {
+      "id": 665,
+      "image_id": 222,
+      "caption": "This pavement has potholes"
+    },
+    {
+      "id": 666,
+      "image_id": 222,
+      "caption": "Road with damaged surface showing potholes"
+    },
+    {
+      "id": 667,
+      "image_id": 223,
+      "caption": "The road surface is potholed"
+    },
+    {
+      "id": 668,
+      "image_id": 223,
+      "caption": "This pavement has potholes"
+    },
+    {
+      "id": 669,
+      "image_id": 223,
+      "caption": "Road with damaged surface showing potholes"
+    },
+    {
+      "id": 670,
+      "image_id": 224,
+      "caption": "The road surface is potholed"
+    },
+    {
+      "id": 671,
+      "image_id": 224,
+      "caption": "This pavement has potholes"
+    },
+    {
+      "id": 672,
+      "image_id": 224,
+      "caption": "Road with damaged surface showing potholes"
+    },
+    {
+      "id": 673,
+      "image_id": 225,
+      "caption": "The road surface is potholed"
+    },
+    {
+      "id": 674,
+      "image_id": 225,
+      "caption": "This pavement has potholes"
+    },
+    {
+      "id": 675,
+      "image_id": 225,
+      "caption": "Road with damaged surface showing potholes"
+    },
+    {
+      "id": 676,
+      "image_id": 226,
+      "caption": "The road surface is potholed"
+    },
+    {
+      "id": 677,
+      "image_id": 226,
+      "caption": "This pavement has potholes"
+    },
+    {
+      "id": 678,
+      "image_id": 226,
+      "caption": "Road with damaged surface showing potholes"
+    },
+    {
+      "id": 679,
+      "image_id": 227,
+      "caption": "The road surface is potholed"
+    },
+    {
+      "id": 680,
+      "image_id": 227,
+      "caption": "This pavement has potholes"
+    },
+    {
+      "id": 681,
+      "image_id": 227,
+      "caption": "Road with damaged surface showing potholes"
+    },
+    {
+      "id": 682,
+      "image_id": 228,
+      "caption": "The road surface is potholed"
+    },
+    {
+      "id": 683,
+      "image_id": 228,
+      "caption": "This pavement has potholes"
+    },
+    {
+      "id": 684,
+      "image_id": 228,
+      "caption": "Road with damaged surface showing potholes"
+    },
+    {
+      "id": 685,
+      "image_id": 229,
+      "caption": "The road surface is potholed"
+    },
+    {
+      "id": 686,
+      "image_id": 229,
+      "caption": "This pavement has potholes"
+    },
+    {
+      "id": 687,
+      "image_id": 229,
+      "caption": "Road with damaged surface showing potholes"
+    },
+    {
+      "id": 688,
+      "image_id": 230,
+      "caption": "The road surface is potholed"
+    },
+    {
+      "id": 689,
+      "image_id": 230,
+      "caption": "This pavement has potholes"
+    },
+    {
+      "id": 690,
+      "image_id": 230,
+      "caption": "Road with damaged surface showing potholes"
+    },
+    {
+      "id": 691,
+      "image_id": 231,
+      "caption": "The road surface is potholed"
+    },
+    {
+      "id": 692,
+      "image_id": 231,
+      "caption": "This pavement has potholes"
+    },
+    {
+      "id": 693,
+      "image_id": 231,
+      "caption": "Road with damaged surface showing potholes"
+    },
+    {
+      "id": 694,
+      "image_id": 232,
+      "caption": "The road surface is potholed"
+    },
+    {
+      "id": 695,
+      "image_id": 232,
+      "caption": "This pavement has potholes"
+    },
+    {
+      "id": 696,
+      "image_id": 232,
+      "caption": "Road with damaged surface showing potholes"
+    },
+    {
+      "id": 697,
+      "image_id": 233,
+      "caption": "The road surface is potholed"
+    },
+    {
+      "id": 698,
+      "image_id": 233,
+      "caption": "This pavement has potholes"
+    },
+    {
+      "id": 699,
+      "image_id": 233,
+      "caption": "Road with damaged surface showing potholes"
+    },
+    {
+      "id": 700,
+      "image_id": 234,
+      "caption": "The road surface is potholed"
+    },
+    {
+      "id": 701,
+      "image_id": 234,
+      "caption": "This pavement has potholes"
+    },
+    {
+      "id": 702,
+      "image_id": 234,
+      "caption": "Road with damaged surface showing potholes"
+    },
+    {
+      "id": 703,
+      "image_id": 235,
+      "caption": "The road surface is potholed"
+    },
+    {
+      "id": 704,
+      "image_id": 235,
+      "caption": "This pavement has potholes"
+    },
+    {
+      "id": 705,
+      "image_id": 235,
+      "caption": "Road with damaged surface showing potholes"
+    }
+  ]
+}

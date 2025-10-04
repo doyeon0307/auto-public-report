@@ -1,0 +1,13 @@
+{
+  "img_dimension": 224,
+  "max_cap_len": 10,
+  "encoding_size": 256,
+  "LSTM_size": 256,
+  "num_words": 1000,
+  "batch_size": 16,
+  "categories": [
+    "cracked",
+    "pothole",
+    "good"
+  ]
+}
