@@ -16,7 +16,7 @@ import androidx.compose.ui.unit.dp
 import com.dokarun.autoreportapp.ui.theme.AppTheme
 
 @Composable
-internal fun LargeButton(
+internal fun AppLargeButton(
     modifier: Modifier = Modifier,
     isEnabled: Boolean,
     text: String,
@@ -48,7 +48,7 @@ internal fun LargeButton(
 @Preview
 @Composable
 internal fun LargeButtonPreview() {
-    LargeButton(
+    AppLargeButton(
         isEnabled = true,
         text = "접수하기"
     )
@@ -57,7 +57,7 @@ internal fun LargeButtonPreview() {
 @Preview
 @Composable
 internal fun LargeButtonPreview2() {
-    LargeButton(
+    AppLargeButton(
         isEnabled = false,
         text = "접수하기"
     )
