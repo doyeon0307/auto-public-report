@@ -1,5 +1,6 @@
 package com.dokarun.autoreportapp.ui.component
 
+import android.net.Uri
 import androidx.compose.foundation.BorderStroke
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.layout.Box
@@ -10,17 +11,21 @@ import androidx.compose.material3.Surface
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
+import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import com.dokarun.autoreportapp.R
 import com.dokarun.autoreportapp.ui.theme.AppTheme
+import gun0912.tedimagepicker.builder.TedImagePicker
 
 @Composable
 internal fun ImagePickerButton(
     modifier: Modifier = Modifier,
-    onClick: () -> Unit,
+    onImagesSelected: (List<Uri>) -> Unit,
 ) {
+    val context = LocalContext.current
+
     Surface(
         modifier = modifier,
         color = AppTheme.colors.background,
@@ -29,7 +34,12 @@ internal fun ImagePickerButton(
             1.dp,
             color = AppTheme.colors.black200
         ),
-        onClick = onClick
+        onClick = {
+            TedImagePicker.with(context)
+                .startMultiImage { uriList ->
+                    onImagesSelected(uriList)
+                }
+        }
     ) {
         Box(
             contentAlignment = Alignment.Center
@@ -49,6 +59,6 @@ internal fun ImagePickerButtonPreview() {
         modifier = Modifier
             .width(160.dp)
             .height(190.dp),
-        onClick = {}
+        onImagesSelected = {}
     )
 }

@@ -39,6 +39,7 @@ android {
     }
     buildFeatures {
         compose = true
+        dataBinding = true
     }
 }
 
@@ -64,4 +65,9 @@ dependencies {
     implementation(libs.hilt.android)
     implementation(libs.hilt.navigation.compose)
     implementation(libs.nav)
+    // ted image picker
+    implementation(libs.ted)
+    // coil
+    implementation(libs.coil)
+
 }

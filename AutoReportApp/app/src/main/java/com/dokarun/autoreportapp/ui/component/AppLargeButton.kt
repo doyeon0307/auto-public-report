@@ -23,11 +23,13 @@ internal fun AppLargeButton(
     contentColor: Color = AppTheme.colors.white,
     backgroundColor: Color = AppTheme.colors.primary,
     disabledBackgroundColor: Color = AppTheme.colors.primary.copy(alpha = 0.4f),
+    onClick: () -> Unit,
 ) {
     Surface(
         modifier = modifier,
         color = if (isEnabled) backgroundColor else disabledBackgroundColor,
-        shape = RoundedCornerShape(12.dp)
+        shape = RoundedCornerShape(12.dp),
+        onClick = { if (isEnabled) onClick else null }
     ) {
         Box(
             modifier = Modifier
@@ -50,7 +52,8 @@ internal fun AppLargeButton(
 internal fun LargeButtonPreview() {
     AppLargeButton(
         isEnabled = true,
-        text = "접수하기"
+        text = "접수하기",
+        onClick = {}
     )
 }
 
@@ -59,6 +62,7 @@ internal fun LargeButtonPreview() {
 internal fun LargeButtonPreview2() {
     AppLargeButton(
         isEnabled = false,
-        text = "접수하기"
+        text = "접수하기",
+        onClick = {}
     )
 }

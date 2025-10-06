@@ -19,9 +19,10 @@ internal fun InputSection(
     Column(
         modifier = modifier
             .fillMaxWidth()
-            .padding(start = 16.dp, end = 16.dp, bottom = 32.dp)
+            .padding(bottom = 32.dp)
     ) {
         StepHeader(
+            modifier = Modifier.padding(horizontal = 16.dp),
             title = title,
             description = description,
             isRequired = isRequired
@@ -41,6 +42,7 @@ internal fun InputSectionPreview() {
         AppLargeButton(
             isEnabled = true,
             text = "얍 버튼이닷!!",
+            onClick = {}
         )
     }
 }
