@@ -29,7 +29,7 @@ internal fun AppLargeButton(
         modifier = modifier,
         color = if (isEnabled) backgroundColor else disabledBackgroundColor,
         shape = RoundedCornerShape(12.dp),
-        onClick = { if (isEnabled) onClick else null }
+        onClick = { if (isEnabled) onClick.invoke() else null }
     ) {
         Box(
             modifier = Modifier

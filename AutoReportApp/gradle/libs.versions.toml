@@ -17,6 +17,8 @@ nav = "2.9.5"
 ted = "1.7.3"
 # coil
 coil = "2.7.0"
+# room
+room = "2.8.1"
 
 [libraries]
 androidx-core-ktx = { group = "androidx.core", name = "core-ktx", version.ref = "coreKtx" }
@@ -42,6 +44,10 @@ nav = { group = "androidx.navigation", name = "navigation-compose", version.ref 
 ted = { group = "io.github.parksanggwon", name = "tedimagepicker", version.ref = "ted" }
 # coil
 coil = { module = "io.coil-kt:coil-compose", version.ref = "coil" }
+# room
+room-runtime = { module = "androidx.room:room-runtime", version.ref = "room" }
+room-compiler = { module = "androidx.room:room-compiler", version.ref = "room" }
+room-ktx = { module = "androidx.room:room-ktx", version.ref = "room" }
 
 [plugins]
 android-application = { id = "com.android.application", version.ref = "agp" }

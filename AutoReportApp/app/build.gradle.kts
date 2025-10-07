@@ -69,5 +69,9 @@ dependencies {
     implementation(libs.ted)
     // coil
     implementation(libs.coil)
+    // room
+    implementation(libs.room.runtime)
+    implementation(libs.room.ktx)
+    kapt(libs.room.compiler)
 
 }
