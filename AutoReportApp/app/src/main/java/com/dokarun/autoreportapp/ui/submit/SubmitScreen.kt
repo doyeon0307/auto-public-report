@@ -17,6 +17,7 @@ import androidx.compose.foundation.rememberScrollState
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.foundation.verticalScroll
 import androidx.compose.runtime.Composable
+import androidx.compose.runtime.LaunchedEffect
 import androidx.compose.runtime.collectAsState
 import androidx.compose.runtime.getValue
 import androidx.compose.ui.Alignment
@@ -25,6 +26,7 @@ import androidx.compose.ui.draw.clip
 import androidx.compose.ui.unit.dp
 import coil.compose.AsyncImage
 import com.dokarun.autoreportapp.AppState
+import com.dokarun.autoreportapp.ui.component.AddressDisplayField
 import com.dokarun.autoreportapp.ui.component.AddressInputForm
 import com.dokarun.autoreportapp.ui.component.AppBar
 import com.dokarun.autoreportapp.ui.component.AppLargeButton
@@ -44,6 +46,17 @@ internal fun SubmitScreen(
 
     val imageWidth = 160.dp
     val imageHeight = 190.dp
+
+    LaunchedEffect(appState.navController.currentBackStackEntry) {
+        appState.navController.currentBackStackEntry
+            ?.savedStateHandle
+            ?.get<Pair<String, String>>("address")?.let { (road, _) ->
+                appState.navController.currentBackStackEntry?.savedStateHandle?.remove<Pair<String, String>>(
+                    "address"
+                )
+                viewModel.onAddressChanged(road)
+            }
+    }
 
     Box(
         modifier = Modifier
@@ -99,16 +112,27 @@ internal fun SubmitScreen(
                     AddressInputForm(
                         title = "주소",
                         message = if (uiState.address.isNotEmpty()) "이 주소가 아닌가요?" else null,
-                        value = uiState.address,
-                        onValueChange = { newText -> viewModel.onAddressChanged(newText) },
-                        placeholder = "주소를 입력해주세요"
-                    )
+                        onMessageClick = {
+                            appState.navController.navigate("zipWebView")
+                        }
+                    ) {
+                        AddressDisplayField(
+                            value = uiState.address,
+                            placeholder = "주소를 입력해주세요",
+                            onClick = {
+                                appState.navController.navigate("zipWebView")
+                            }
+                        )
+                    }
                     AddressInputForm(
                         title = "상세위치",
-                        value = uiState.detailAddress,
-                        onValueChange = { newText -> viewModel.onDetailAddressChanged(newText) },
-                        placeholder = "자세한 위치를 입력해주세요"
-                    )
+                    ) {
+                        UnderLineInputField(
+                            value = uiState.detailAddress,
+                            onValueChange = { newText -> viewModel.onDetailAddressChanged(newText) },
+                            placeholder = "자세한 위치를 입력해주세요",
+                        )
+                    }
                 }
             }
             InputSection(

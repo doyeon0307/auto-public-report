@@ -19,4 +19,12 @@ fun NavGraphBuilder.submitGraph(
             viewModel = viewModel
         )
     }
+
+    composable(
+        route = Routes.Submit.ZIP_WEB_VIEW
+    ) {
+        ZipWebView(
+            appState = appState
+        )
+    }
 }
