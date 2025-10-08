@@ -10,6 +10,8 @@ object Routes {
 
     object List {
         const val ROUTE = "listRoute"
+
+        const val REPORT = "reportScreen"
     }
 
 }

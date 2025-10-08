@@ -66,7 +66,9 @@ internal fun SubmitScreen(
         Column(
             modifier = Modifier.verticalScroll(scrollState)
         ) {
-            AppBar {}
+            AppBar(
+                onTextClick = { appState.navController.navigate("listRoute") }
+            )
             InputSection(
                 title = "불편사항을 알려주세요",
                 description = "개선이 필요한 곳을 사진으로 찍어 등록해주세요",
